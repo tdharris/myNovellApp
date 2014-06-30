@@ -1,0 +1,1160 @@
+Thu Jan 16 2014 08:52:06 GMT-0700 (MST) Express server is listening securely on port 443
+Thu Jan 16 2014 08:52:19 GMT-0700 (MST) [sid:tq85zbbj4i] [addNotify] New request from 137.65.221.174: Tyler Harris - tylerdavidharris@gmail.com, 5302001919@vtext.com
+Thu Jan 16 2014 08:52:19 GMT-0700 (MST) [sid:tq85zbbj4i] [addNotify] [getEmail] currentEmail from qmon: null
+Thu Jan 16 2014 08:52:19 GMT-0700 (MST) [sid:tq85zbbj4i] [addNotify] [newEmail] appending: tylerdavidharris@gmail.com,5302001919@vtext.com
+Thu Jan 16 2014 08:52:19 GMT-0700 (MST) [sid:tq85zbbj4i] [updateNotify] [putEmail] result: null,tylerdavidharris@gmail.com,5302001919@vtext.com
+Thu Jan 16 2014 08:52:19 GMT-0700 (MST) [sid:tq85zbbj4i] [addNotify] [userList] current list: Tyler Harris
+Thu Jan 16 2014 09:07:42 GMT-0700 (MST) [sid:dqofhhkhuxr] [removeNotify] New request from 137.65.221.174: Tyler Harris - tylerdavidharris@gmail.com, 5302001919@vtext.com
+Thu Jan 16 2014 09:07:42 GMT-0700 (MST) [sid:dqofhhkhuxr] [removeNotify] [removeValues] keeping: null
+Thu Jan 16 2014 09:07:43 GMT-0700 (MST) [sid:dqofhhkhuxr] [updateNotify] [putEmail] result: null
+Thu Jan 16 2014 09:07:43 GMT-0700 (MST) [sid:dqofhhkhuxr] [removeNotify] [userList] current list:  undefined
+Thu Jan 16 2014 10:04:49 GMT-0700 (MST) [sid:cgciynzh0k9] [removeNotify] New request from 137.65.221.174: Tyler Harris - tylerdavidharris@gmail.com, 5302001919@vtext.com
+Thu Jan 16 2014 10:04:49 GMT-0700 (MST) [sid:cgciynzh0k9] [removeNotify] [removeValues] keeping: null
+Thu Jan 16 2014 10:04:49 GMT-0700 (MST) [sid:cgciynzh0k9] [updateNotify] [putEmail] result: null
+Thu Jan 16 2014 10:04:49 GMT-0700 (MST) [sid:cgciynzh0k9] [removeNotify] [userList] current list:  undefined
+Thu Jan 16 2014 21:00:01 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Fri Jan 17 2014 06:57:40 GMT-0700 (MST) [sid:g50ivvlsor] [addNotify] New request from 137.65.156.106: abraham  - undefined, 8014274617@sms.mycricket.com
+Fri Jan 17 2014 06:57:40 GMT-0700 (MST) [sid:g50ivvlsor] [addNotify] [getEmail] currentEmail from qmon: null
+Fri Jan 17 2014 06:57:40 GMT-0700 (MST) [sid:g50ivvlsor] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Fri Jan 17 2014 06:57:40 GMT-0700 (MST) [sid:g50ivvlsor] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Fri Jan 17 2014 06:57:40 GMT-0700 (MST) [sid:g50ivvlsor] [addNotify] [userList] current list: abraham 
+Fri Jan 17 2014 21:00:01 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Sat Jan 18 2014 21:00:01 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Sun Jan 19 2014 03:12:27 GMT-0700 (MST) Express server is listening securely on port 443
+Sun Jan 19 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Mon Jan 20 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Tue Jan 21 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Wed Jan 22 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Thu Jan 23 2014 17:13:32 GMT-0700 (MST) [sid:7ilwct5u3di] [addNotify] New request from 137.65.222.26: Tyler Harris - tylerdavidharris@gmail.com, 5302001919@vtext.com
+Thu Jan 23 2014 17:13:32 GMT-0700 (MST) [sid:7ilwct5u3di] [addNotify] [getEmail] currentEmail from qmon: null
+Thu Jan 23 2014 17:13:32 GMT-0700 (MST) [sid:7ilwct5u3di] [addNotify] [newEmail] appending: tylerdavidharris@gmail.com,5302001919@vtext.com
+Thu Jan 23 2014 17:13:32 GMT-0700 (MST) [sid:7ilwct5u3di] [updateNotify] [putEmail] result: null,tylerdavidharris@gmail.com,5302001919@vtext.com
+Thu Jan 23 2014 17:13:32 GMT-0700 (MST) [sid:7ilwct5u3di] [addNotify] [userList] current list: Tyler Harris
+Thu Jan 23 2014 17:13:33 GMT-0700 (MST) [sid:tbdjh1cq5mi] [removeNotify] New request from 137.65.222.26: Tyler Harris - tylerdavidharris@gmail.com, 5302001919@vtext.com
+Thu Jan 23 2014 17:13:33 GMT-0700 (MST) [sid:tbdjh1cq5mi] [removeNotify] [removeValues] keeping: null
+Thu Jan 23 2014 17:13:34 GMT-0700 (MST) [sid:tbdjh1cq5mi] [updateNotify] [putEmail] result: null
+Thu Jan 23 2014 17:13:34 GMT-0700 (MST) [sid:tbdjh1cq5mi] [removeNotify] [userList] current list:  undefined
+Thu Jan 23 2014 17:17:39 GMT-0700 (MST) [sid:n2c24gyzaor] [addNotify] New request from 137.65.222.26: Tyler Harris - undefined, 5302001919@vtext.com
+Thu Jan 23 2014 17:17:40 GMT-0700 (MST) [sid:n2c24gyzaor] [addNotify] [getEmail] currentEmail from qmon: null
+Thu Jan 23 2014 17:17:40 GMT-0700 (MST) [sid:n2c24gyzaor] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Thu Jan 23 2014 17:17:40 GMT-0700 (MST) [sid:n2c24gyzaor] [updateNotify] [putEmail] result: null,5302001919@vtext.com
+Thu Jan 23 2014 17:17:40 GMT-0700 (MST) [sid:n2c24gyzaor] [addNotify] [userList] current list: Tyler Harris
+Thu Jan 23 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Fri Jan 24 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Sat Jan 25 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Sun Jan 26 2014 03:12:38 GMT-0700 (MST) Express server is listening securely on port 443
+Sun Jan 26 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Mon Jan 27 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Tue Jan 28 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Wed Jan 29 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Thu Jan 30 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Fri Jan 31 2014 15:23:07 GMT-0700 (MST) [sid:2lj6pwuerk9] [addNotify] New request from 137.65.156.106: abraham  - undefined, 8014274617@sms.mycricket.com
+Fri Jan 31 2014 15:23:07 GMT-0700 (MST) [sid:2lj6pwuerk9] [addNotify] [getEmail] currentEmail from qmon: null
+Fri Jan 31 2014 15:23:07 GMT-0700 (MST) [sid:2lj6pwuerk9] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Fri Jan 31 2014 15:23:07 GMT-0700 (MST) [sid:2lj6pwuerk9] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Fri Jan 31 2014 15:23:07 GMT-0700 (MST) [sid:2lj6pwuerk9] [addNotify] [userList] current list: abraham 
+Fri Jan 31 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Sat Feb 01 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Sun Feb 02 2014 03:12:23 GMT-0700 (MST) Express server is listening securely on port 443
+Sun Feb 02 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Mon Feb 03 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Tue Feb 04 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Wed Feb 05 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Thu Feb 06 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Fri Feb 07 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Sat Feb 08 2014 09:25:26 GMT-0700 (MST) [sid:ob7awpwg66r] [addNotify] New request from 137.65.223.41: Shane Nielson - undefined, 8015921467@vtext.com
+Sat Feb 08 2014 09:25:26 GMT-0700 (MST) [sid:ob7awpwg66r] [addNotify] [getEmail] currentEmail from qmon: null
+Sat Feb 08 2014 09:25:26 GMT-0700 (MST) [sid:ob7awpwg66r] [addNotify] [newEmail] appending: 8015921467@vtext.com
+Sat Feb 08 2014 09:25:26 GMT-0700 (MST) [sid:ob7awpwg66r] [updateNotify] [putEmail] result: null,8015921467@vtext.com
+Sat Feb 08 2014 09:25:26 GMT-0700 (MST) [sid:ob7awpwg66r] [addNotify] [userList] current list: Shane Nielson
+Sat Feb 08 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Sun Feb 09 2014 03:13:02 GMT-0700 (MST) Express server is listening securely on port 443
+Sun Feb 09 2014 09:12:15 GMT-0700 (MST) [sid:k96nvc84cxr] [addNotify] New request from 137.65.223.15: Tyler Harris - undefined, 5302001919@vtext.com
+Sun Feb 09 2014 09:12:15 GMT-0700 (MST) [sid:k96nvc84cxr] [addNotify] [getEmail] currentEmail from qmon: null
+Sun Feb 09 2014 09:12:15 GMT-0700 (MST) [sid:k96nvc84cxr] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun Feb 09 2014 09:12:15 GMT-0700 (MST) [sid:k96nvc84cxr] [updateNotify] [putEmail] result: null,5302001919@vtext.com
+Sun Feb 09 2014 09:12:15 GMT-0700 (MST) [sid:k96nvc84cxr] [addNotify] [userList] current list: Tyler Harris
+Sun Feb 09 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Mon Feb 10 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Tue Feb 11 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Wed Feb 12 2014 12:40:27 GMT-0700 (MST) [sid:sbayqveu3di] [addNotify] New request from 137.65.156.106: abraham  - undefined, 8014274617@sms.mycricket.com
+Wed Feb 12 2014 12:40:27 GMT-0700 (MST) [sid:sbayqveu3di] [addNotify] [getEmail] currentEmail from qmon: null
+Wed Feb 12 2014 12:40:27 GMT-0700 (MST) [sid:sbayqveu3di] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Wed Feb 12 2014 12:40:27 GMT-0700 (MST) [sid:sbayqveu3di] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Wed Feb 12 2014 12:40:27 GMT-0700 (MST) [sid:sbayqveu3di] [addNotify] [userList] current list: abraham 
+Wed Feb 12 2014 18:42:20 GMT-0700 (MST) [sid:b201rpsc3di] [addNotify] New request from 137.65.156.106: abraham  - undefined, 8014274617@sms.mycricket.com
+Wed Feb 12 2014 18:42:20 GMT-0700 (MST) [sid:b201rpsc3di] [addNotify] [getEmail] currentEmail from qmon: null,8014274617@sms.mycricket.com
+Wed Feb 12 2014 18:42:20 GMT-0700 (MST) [sid:b201rpsc3di] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Wed Feb 12 2014 18:42:20 GMT-0700 (MST) [sid:b201rpsc3di] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Wed Feb 12 2014 18:42:20 GMT-0700 (MST) [sid:b201rpsc3di] [addNotify] [userList] current list: abraham 
+Wed Feb 12 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Thu Feb 13 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Fri Feb 14 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Sat Feb 15 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Sun Feb 16 2014 03:13:50 GMT-0700 (MST) Express server is listening securely on port 443
+Sun Feb 16 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Mon Feb 17 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Tue Feb 18 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Wed Feb 19 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Thu Feb 20 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Fri Feb 21 2014 17:36:58 GMT-0700 (MST) [sid:qffx5el8fr] [addNotify] New request from 137.65.150.87: Ian Palmer - ipalmer@novell.com, 8016875234@txt.att.net
+Fri Feb 21 2014 17:36:58 GMT-0700 (MST) [sid:qffx5el8fr] [addNotify] [getEmail] currentEmail from qmon: null
+Fri Feb 21 2014 17:36:58 GMT-0700 (MST) [sid:qffx5el8fr] [addNotify] [newEmail] appending: ipalmer@novell.com,8016875234@txt.att.net
+Fri Feb 21 2014 17:36:58 GMT-0700 (MST) [sid:qffx5el8fr] [updateNotify] [putEmail] result: null,ipalmer@novell.com,8016875234@txt.att.net
+Fri Feb 21 2014 17:36:58 GMT-0700 (MST) [sid:qffx5el8fr] [addNotify] [userList] current list: Ian Palmer
+Fri Feb 21 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Sat Feb 22 2014 12:26:30 GMT-0700 (MST) [sid:8uhdxojq0k9] [addNotify] New request from 137.65.150.87: Ian Palmer - ipalmer@novell.com, 8016875234@txt.att.net
+Sat Feb 22 2014 12:26:30 GMT-0700 (MST) [sid:8uhdxojq0k9] [addNotify] [getEmail] currentEmail from qmon: null
+Sat Feb 22 2014 12:26:30 GMT-0700 (MST) [sid:8uhdxojq0k9] [addNotify] [newEmail] appending: ipalmer@novell.com,8016875234@txt.att.net
+Sat Feb 22 2014 12:26:30 GMT-0700 (MST) [sid:8uhdxojq0k9] [updateNotify] [putEmail] result: null,ipalmer@novell.com,8016875234@txt.att.net
+Sat Feb 22 2014 12:26:30 GMT-0700 (MST) [sid:8uhdxojq0k9] [addNotify] [userList] current list: Ian Palmer
+Sat Feb 22 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Sun Feb 23 2014 03:13:22 GMT-0700 (MST) Express server is listening securely on port 443
+Sun Feb 23 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Mon Feb 24 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Tue Feb 25 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Wed Feb 26 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Thu Feb 27 2014 19:32:12 GMT-0700 (MST) [sid:yjvxfajor] [addNotify] New request from 137.65.222.169: Tyler Harris - undefined, 5302001919@vtext.com
+Thu Feb 27 2014 19:32:12 GMT-0700 (MST) [sid:yjvxfajor] [addNotify] [getEmail] currentEmail from qmon: null
+Thu Feb 27 2014 19:32:12 GMT-0700 (MST) [sid:yjvxfajor] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Thu Feb 27 2014 19:32:12 GMT-0700 (MST) [sid:yjvxfajor] [updateNotify] [putEmail] result: null,5302001919@vtext.com
+Thu Feb 27 2014 19:32:12 GMT-0700 (MST) [sid:yjvxfajor] [addNotify] [userList] current list: Tyler Harris
+Thu Feb 27 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Fri Feb 28 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Sat Mar 01 2014 17:29:55 GMT-0700 (MST) [sid:aiwjus4te29] [addNotify] New request from 137.65.222.153: edavis - edavis@novell.com, 9542573305@txt.att.net
+Sat Mar 01 2014 17:29:55 GMT-0700 (MST) [sid:aiwjus4te29] [addNotify] [getEmail] currentEmail from qmon: null
+Sat Mar 01 2014 17:29:55 GMT-0700 (MST) [sid:aiwjus4te29] [addNotify] [newEmail] appending: edavis@novell.com,9542573305@txt.att.net
+Sat Mar 01 2014 17:29:55 GMT-0700 (MST) [sid:aiwjus4te29] [updateNotify] [putEmail] result: null,edavis@novell.com,9542573305@txt.att.net
+Sat Mar 01 2014 17:29:55 GMT-0700 (MST) [sid:aiwjus4te29] [addNotify] [userList] current list: edavis
+Sat Mar 01 2014 18:34:35 GMT-0700 (MST) [sid:yv6pxwuq5mi] [addNotify] New request from 137.65.222.153: edavis - edavis@novell.com, 9542573305@txt.att.net
+Sat Mar 01 2014 18:34:35 GMT-0700 (MST) [sid:yv6pxwuq5mi] [addNotify] [getEmail] currentEmail from qmon: null,edavis@novell.com,9542573305@txt.att.net
+Sat Mar 01 2014 18:34:35 GMT-0700 (MST) [sid:yv6pxwuq5mi] [addNotify] [newEmail] appending: edavis@novell.com,9542573305@txt.att.net
+Sat Mar 01 2014 18:34:35 GMT-0700 (MST) [sid:yv6pxwuq5mi] [updateNotify] [putEmail] result: null,edavis@novell.com,9542573305@txt.att.net
+Sat Mar 01 2014 18:34:35 GMT-0700 (MST) [sid:yv6pxwuq5mi] [addNotify] [userList] current list: edavis
+Sat Mar 01 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Sun Mar 02 2014 03:14:23 GMT-0700 (MST) Express server is listening securely on port 443
+Sun Mar 02 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Mon Mar 03 2014 18:33:19 GMT-0700 (MST) [sid:ptxkibb7qfr] [addNotify] New request from 137.65.221.33: edavis - edavis@novell.com, 9542573305@txt.att.net
+Mon Mar 03 2014 18:33:19 GMT-0700 (MST) [sid:ptxkibb7qfr] [addNotify] [getEmail] currentEmail from qmon: null
+Mon Mar 03 2014 18:33:19 GMT-0700 (MST) [sid:ptxkibb7qfr] [addNotify] [newEmail] appending: edavis@novell.com,9542573305@txt.att.net
+Mon Mar 03 2014 18:33:19 GMT-0700 (MST) [sid:ptxkibb7qfr] [updateNotify] [putEmail] result: null,edavis@novell.com,9542573305@txt.att.net
+Mon Mar 03 2014 18:33:19 GMT-0700 (MST) [sid:ptxkibb7qfr] [addNotify] [userList] current list: edavis
+Mon Mar 03 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Tue Mar 04 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Wed Mar 05 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Thu Mar 06 2014 17:35:36 GMT-0700 (MST) [sid:4kp4cd3rf6r] [addNotify] New request from 137.65.221.179: Tyler Harris - undefined, 5302001919@vtext.com
+Thu Mar 06 2014 17:35:36 GMT-0700 (MST) [sid:4kp4cd3rf6r] [addNotify] [getEmail] currentEmail from qmon: null
+Thu Mar 06 2014 17:35:36 GMT-0700 (MST) [sid:4kp4cd3rf6r] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Thu Mar 06 2014 17:35:36 GMT-0700 (MST) [sid:4kp4cd3rf6r] [updateNotify] [putEmail] result: null,5302001919@vtext.com
+Thu Mar 06 2014 17:35:36 GMT-0700 (MST) [sid:4kp4cd3rf6r] [addNotify] [userList] current list: Tyler Harris
+Thu Mar 06 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Fri Mar 07 2014 16:35:29 GMT-0700 (MST) [sid:3rayktke29] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Fri Mar 07 2014 16:35:30 GMT-0700 (MST) [sid:3rayktke29] [addNotify] [getEmail] currentEmail from qmon: null
+Fri Mar 07 2014 16:35:30 GMT-0700 (MST) [sid:3rayktke29] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Fri Mar 07 2014 16:35:30 GMT-0700 (MST) [sid:3rayktke29] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Fri Mar 07 2014 16:35:30 GMT-0700 (MST) [sid:3rayktke29] [addNotify] [userList] current list: abe
+Fri Mar 07 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Sat Mar 08 2014 11:58:43 GMT-0700 (MST) [sid:sn2iqsn61or] [addNotify] New request from 137.65.220.46: Shane Nielson - undefined, 8015921467@vtext.com
+Sat Mar 08 2014 11:58:43 GMT-0700 (MST) [sid:sn2iqsn61or] [addNotify] [getEmail] currentEmail from qmon: null
+Sat Mar 08 2014 11:58:43 GMT-0700 (MST) [sid:sn2iqsn61or] [addNotify] [newEmail] appending: 8015921467@vtext.com
+Sat Mar 08 2014 11:58:44 GMT-0700 (MST) [sid:sn2iqsn61or] [updateNotify] [putEmail] result: null,8015921467@vtext.com
+Sat Mar 08 2014 11:58:44 GMT-0700 (MST) [sid:sn2iqsn61or] [addNotify] [userList] current list: Shane Nielson
+Sat Mar 08 2014 21:00:00 GMT-0700 (MST) [scheduler] [reset] Cleared userList.
+Sun Mar 09 2014 03:13:57 GMT-0600 (MDT) Express server is listening securely on port 443
+Sun Mar 09 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Mon Mar 10 2014 19:19:14 GMT-0600 (MDT) [sid:2gbopfrbe29] [addNotify] New request from 137.65.220.68: edavis - elgiedavis@gmail.com, 9542573305@txt.att.net
+Mon Mar 10 2014 19:19:14 GMT-0600 (MDT) [sid:2gbopfrbe29] [addNotify] [getEmail] currentEmail from qmon: null
+Mon Mar 10 2014 19:19:14 GMT-0600 (MDT) [sid:2gbopfrbe29] [addNotify] [newEmail] appending: elgiedavis@gmail.com,9542573305@txt.att.net
+Mon Mar 10 2014 19:19:14 GMT-0600 (MDT) [sid:2gbopfrbe29] [updateNotify] [putEmail] result: null,elgiedavis@gmail.com,9542573305@txt.att.net
+Mon Mar 10 2014 19:19:14 GMT-0600 (MDT) [sid:2gbopfrbe29] [addNotify] [userList] current list: edavis
+Mon Mar 10 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Mon Mar 10 2014 22:08:09 GMT-0600 (MDT) [sid:hn4bkmlsor] [removeNotify] New request from 137.65.220.68: edavis - elgiedavis@gmail.com, 9542573305@txt.att.net
+Mon Mar 10 2014 22:08:09 GMT-0600 (MDT) [sid:hn4bkmlsor] [removeNotify] [removeValues] keeping: null
+Mon Mar 10 2014 22:08:09 GMT-0600 (MDT) [sid:hn4bkmlsor] [updateNotify] [putEmail] result: null
+Mon Mar 10 2014 22:08:09 GMT-0600 (MDT) [sid:hn4bkmlsor] [removeNotify] [userList] current list:  undefined
+Tue Mar 11 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Wed Mar 12 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Thu Mar 13 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Fri Mar 14 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Sat Mar 15 2014 10:20:44 GMT-0600 (MDT) [sid:z36hmjwcdi] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Sat Mar 15 2014 10:20:44 GMT-0600 (MDT) [sid:z36hmjwcdi] [addNotify] [getEmail] currentEmail from qmon: null
+Sat Mar 15 2014 10:20:44 GMT-0600 (MDT) [sid:z36hmjwcdi] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Sat Mar 15 2014 10:20:44 GMT-0600 (MDT) [sid:z36hmjwcdi] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Sat Mar 15 2014 10:20:44 GMT-0600 (MDT) [sid:z36hmjwcdi] [addNotify] [userList] current list: abe
+Sat Mar 15 2014 15:38:39 GMT-0600 (MDT) [sid:d16benlv7vi] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Sat Mar 15 2014 15:38:39 GMT-0600 (MDT) [sid:d16benlv7vi] [addNotify] [getEmail] currentEmail from qmon: null,8014274617@sms.mycricket.com
+Sat Mar 15 2014 15:38:39 GMT-0600 (MDT) [sid:d16benlv7vi] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Sat Mar 15 2014 15:38:39 GMT-0600 (MDT) [sid:d16benlv7vi] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Sat Mar 15 2014 15:38:39 GMT-0600 (MDT) [sid:d16benlv7vi] [addNotify] [userList] current list: abe
+Sat Mar 15 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Sun Mar 16 2014 03:13:20 GMT-0600 (MDT) Express server is listening securely on port 443
+Sun Mar 16 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Mon Mar 17 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Tue Mar 18 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Wed Mar 19 2014 07:51:17 GMT-0600 (MDT) [sid:jxhd5x0qkt9] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Wed Mar 19 2014 07:51:17 GMT-0600 (MDT) [sid:jxhd5x0qkt9] [addNotify] [getEmail] currentEmail from qmon: null
+Wed Mar 19 2014 07:51:17 GMT-0600 (MDT) [sid:jxhd5x0qkt9] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Wed Mar 19 2014 07:51:17 GMT-0600 (MDT) [sid:jxhd5x0qkt9] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Wed Mar 19 2014 07:51:17 GMT-0600 (MDT) [sid:jxhd5x0qkt9] [addNotify] [userList] current list: abe
+Wed Mar 19 2014 07:51:22 GMT-0600 (MDT) [sid:e0a1x3fecdi] [removeNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Wed Mar 19 2014 07:51:22 GMT-0600 (MDT) [sid:e0a1x3fecdi] [removeNotify] [removeValues] keeping: null
+Wed Mar 19 2014 07:51:22 GMT-0600 (MDT) [sid:e0a1x3fecdi] [updateNotify] [putEmail] result: null
+Wed Mar 19 2014 07:51:22 GMT-0600 (MDT) [sid:e0a1x3fecdi] [removeNotify] [userList] current list:  undefined
+Wed Mar 19 2014 18:32:45 GMT-0600 (MDT) [sid:86kvsnpzaor] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Wed Mar 19 2014 18:32:45 GMT-0600 (MDT) [sid:86kvsnpzaor] [addNotify] [getEmail] currentEmail from qmon: null
+Wed Mar 19 2014 18:32:45 GMT-0600 (MDT) [sid:86kvsnpzaor] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Wed Mar 19 2014 18:32:45 GMT-0600 (MDT) [sid:86kvsnpzaor] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Wed Mar 19 2014 18:32:45 GMT-0600 (MDT) [sid:86kvsnpzaor] [addNotify] [userList] current list: abe
+Wed Mar 19 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Thu Mar 20 2014 08:40:30 GMT-0600 (MDT) [sid:ah765uyp66r] [removeNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Thu Mar 20 2014 08:40:30 GMT-0600 (MDT) [sid:ah765uyp66r] [removeNotify] [removeValues] keeping: null
+Thu Mar 20 2014 08:40:30 GMT-0600 (MDT) [sid:ah765uyp66r] [updateNotify] [putEmail] result: null
+Thu Mar 20 2014 08:40:30 GMT-0600 (MDT) [sid:ah765uyp66r] [removeNotify] [userList] current list:  undefined
+Thu Mar 20 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Fri Mar 21 2014 17:23:18 GMT-0600 (MDT) [sid:zf8e1li8uxr] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Fri Mar 21 2014 17:23:19 GMT-0600 (MDT) [sid:zf8e1li8uxr] [addNotify] [getEmail] currentEmail from qmon: null
+Fri Mar 21 2014 17:23:19 GMT-0600 (MDT) [sid:zf8e1li8uxr] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Fri Mar 21 2014 17:23:19 GMT-0600 (MDT) [sid:zf8e1li8uxr] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Fri Mar 21 2014 17:23:19 GMT-0600 (MDT) [sid:zf8e1li8uxr] [addNotify] [userList] current list: abe
+Fri Mar 21 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Sat Mar 22 2014 09:51:20 GMT-0600 (MDT) [sid:ogzhd0r7ldi] [addNotify] New request from 137.65.150.87: Ian Palmer - undefined, 8016875234@txt.att.net
+Sat Mar 22 2014 09:51:20 GMT-0600 (MDT) [sid:ogzhd0r7ldi] [addNotify] [getEmail] currentEmail from qmon: null
+Sat Mar 22 2014 09:51:20 GMT-0600 (MDT) [sid:ogzhd0r7ldi] [addNotify] [newEmail] appending: 8016875234@txt.att.net
+Sat Mar 22 2014 09:51:20 GMT-0600 (MDT) [sid:ogzhd0r7ldi] [updateNotify] [putEmail] result: null,8016875234@txt.att.net
+Sat Mar 22 2014 09:51:20 GMT-0600 (MDT) [sid:ogzhd0r7ldi] [addNotify] [userList] current list: Ian Palmer
+Sat Mar 22 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Sun Mar 23 2014 03:14:01 GMT-0600 (MDT) Express server is listening securely on port 443
+Sun Mar 23 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Mon Mar 24 2014 21:00:01 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Tue Mar 25 2014 21:00:01 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Wed Mar 26 2014 21:00:01 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Thu Mar 27 2014 18:29:40 GMT-0600 (MDT) [sid:9cw9nfm9529] [addNotify] New request from 137.65.222.149: Tyler - undefined, 5302001919@vtext.com
+Thu Mar 27 2014 18:29:40 GMT-0600 (MDT) [sid:9cw9nfm9529] [addNotify] [getEmail] currentEmail from qmon: null
+Thu Mar 27 2014 18:29:40 GMT-0600 (MDT) [sid:9cw9nfm9529] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Thu Mar 27 2014 18:29:40 GMT-0600 (MDT) [sid:9cw9nfm9529] [updateNotify] [putEmail] result: null,5302001919@vtext.com
+Thu Mar 27 2014 18:29:40 GMT-0600 (MDT) [sid:9cw9nfm9529] [addNotify] [userList] current list: Tyler
+Thu Mar 27 2014 21:00:01 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Fri Mar 28 2014 21:00:01 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Sat Mar 29 2014 21:00:01 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Sun Mar 30 2014 03:18:52 GMT-0600 (MDT) Express server is listening securely on port 443
+Sun Mar 30 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Mon Mar 31 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Tue Apr 01 2014 18:10:18 GMT-0600 (MDT) [sid:4l1bn019k9] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Tue Apr 01 2014 18:10:18 GMT-0600 (MDT) [sid:4l1bn019k9] [addNotify] [getEmail] currentEmail from qmon: null
+Tue Apr 01 2014 18:10:18 GMT-0600 (MDT) [sid:4l1bn019k9] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Tue Apr 01 2014 18:10:18 GMT-0600 (MDT) [sid:4l1bn019k9] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Tue Apr 01 2014 18:10:18 GMT-0600 (MDT) [sid:4l1bn019k9] [addNotify] [userList] current list: abe
+Tue Apr 01 2014 20:31:25 GMT-0600 (MDT) [sid:woul18m2t9] [removeNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Tue Apr 01 2014 20:31:25 GMT-0600 (MDT) [sid:woul18m2t9] [removeNotify] [removeValues] keeping: null
+Tue Apr 01 2014 20:31:26 GMT-0600 (MDT) [sid:woul18m2t9] [updateNotify] [putEmail] result: null
+Tue Apr 01 2014 20:31:26 GMT-0600 (MDT) [sid:woul18m2t9] [removeNotify] [userList] current list:  undefined
+Tue Apr 01 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Wed Apr 02 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Thu Apr 03 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Fri Apr 04 2014 18:52:19 GMT-0600 (MDT) [sid:j9z6emcayvi] [addNotify] New request from 137.65.221.62: Shane Nielson - undefined, 8015921467@vtext.com
+Fri Apr 04 2014 18:52:19 GMT-0600 (MDT) [sid:j9z6emcayvi] [addNotify] [getEmail] currentEmail from qmon: null
+Fri Apr 04 2014 18:52:19 GMT-0600 (MDT) [sid:j9z6emcayvi] [addNotify] [newEmail] appending: 8015921467@vtext.com
+Fri Apr 04 2014 18:52:19 GMT-0600 (MDT) [sid:j9z6emcayvi] [updateNotify] [putEmail] result: null,8015921467@vtext.com
+Fri Apr 04 2014 18:52:19 GMT-0600 (MDT) [sid:j9z6emcayvi] [addNotify] [userList] current list: Shane Nielson
+Fri Apr 04 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Sat Apr 05 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Sun Apr 06 2014 03:14:42 GMT-0600 (MDT) Express server is listening securely on port 443
+Sun Apr 06 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Mon Apr 07 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Tue Apr 08 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Wed Apr 09 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Thu Apr 10 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Fri Apr 11 2014 17:20:06 GMT-0600 (MDT) [sid:7qumsyeewmi] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Fri Apr 11 2014 17:20:06 GMT-0600 (MDT) [sid:7qumsyeewmi] [addNotify] [getEmail] currentEmail from qmon: null
+Fri Apr 11 2014 17:20:06 GMT-0600 (MDT) [sid:7qumsyeewmi] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Fri Apr 11 2014 17:20:06 GMT-0600 (MDT) [sid:7qumsyeewmi] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Fri Apr 11 2014 17:20:06 GMT-0600 (MDT) [sid:7qumsyeewmi] [addNotify] [userList] current list: abe
+Fri Apr 11 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Sat Apr 12 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Sun Apr 13 2014 03:14:46 GMT-0600 (MDT) Express server is listening securely on port 443
+Sun Apr 13 2014 10:21:40 GMT-0600 (MDT) [sid:w9ozoj38fr] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Sun Apr 13 2014 10:21:40 GMT-0600 (MDT) [sid:w9ozoj38fr] [addNotify] [getEmail] currentEmail from qmon: null
+Sun Apr 13 2014 10:21:40 GMT-0600 (MDT) [sid:w9ozoj38fr] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Sun Apr 13 2014 10:21:40 GMT-0600 (MDT) [sid:w9ozoj38fr] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Sun Apr 13 2014 10:21:40 GMT-0600 (MDT) [sid:w9ozoj38fr] [addNotify] [userList] current list: abe
+Sun Apr 13 2014 10:21:50 GMT-0600 (MDT) [sid:jfvy8u59udi] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Sun Apr 13 2014 10:21:50 GMT-0600 (MDT) [sid:jfvy8u59udi] [addNotify] [getEmail] currentEmail from qmon: null,8014274617@sms.mycricket.com
+Sun Apr 13 2014 10:21:50 GMT-0600 (MDT) [sid:jfvy8u59udi] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Sun Apr 13 2014 10:21:50 GMT-0600 (MDT) [sid:jfvy8u59udi] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Sun Apr 13 2014 10:21:50 GMT-0600 (MDT) [sid:jfvy8u59udi] [addNotify] [userList] current list: abe
+Sun Apr 13 2014 21:00:01 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Mon Apr 14 2014 17:24:13 GMT-0600 (MDT) [sid:jqmjxy1fw29] [addNotify] New request from 137.65.220.116: elgiedavis - edavis@novell.com, 9542573305@txt.att.net
+Mon Apr 14 2014 17:24:13 GMT-0600 (MDT) [sid:jqmjxy1fw29] [addNotify] [getEmail] currentEmail from qmon: null
+Mon Apr 14 2014 17:24:13 GMT-0600 (MDT) [sid:jqmjxy1fw29] [addNotify] [newEmail] appending: edavis@novell.com,9542573305@txt.att.net
+Mon Apr 14 2014 17:24:14 GMT-0600 (MDT) [sid:jqmjxy1fw29] [updateNotify] [putEmail] result: null,edavis@novell.com,9542573305@txt.att.net
+Mon Apr 14 2014 17:24:14 GMT-0600 (MDT) [sid:jqmjxy1fw29] [addNotify] [userList] current list: elgiedavis
+Mon Apr 14 2014 18:00:51 GMT-0600 (MDT) [sid:fhw9hql4n29] [addNotify] New request from 137.65.222.30: Shane Nielson - undefined, 8015921467@vtext.com
+Mon Apr 14 2014 18:00:51 GMT-0600 (MDT) [sid:fhw9hql4n29] [addNotify] [getEmail] currentEmail from qmon: null,edavis@novell.com,9542573305@txt.att.net
+Mon Apr 14 2014 18:00:51 GMT-0600 (MDT) [sid:fhw9hql4n29] [addNotify] [newEmail] appending: 8015921467@vtext.com
+Mon Apr 14 2014 18:00:51 GMT-0600 (MDT) [sid:fhw9hql4n29] [updateNotify] [putEmail] result: null,edavis@novell.com,9542573305@txt.att.net,8015921467@vtext.com
+Mon Apr 14 2014 18:00:51 GMT-0600 (MDT) [sid:fhw9hql4n29] [addNotify] [userList] current list: Shane Nielson,elgiedavis
+Mon Apr 14 2014 21:00:01 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Tue Apr 15 2014 18:53:55 GMT-0600 (MDT) [sid:r3hybb4vx6r] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Tue Apr 15 2014 18:53:55 GMT-0600 (MDT) [sid:r3hybb4vx6r] [addNotify] [getEmail] currentEmail from qmon: null
+Tue Apr 15 2014 18:53:55 GMT-0600 (MDT) [sid:r3hybb4vx6r] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Tue Apr 15 2014 18:53:55 GMT-0600 (MDT) [sid:r3hybb4vx6r] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Tue Apr 15 2014 18:53:55 GMT-0600 (MDT) [sid:r3hybb4vx6r] [addNotify] [userList] current list: abe
+Tue Apr 15 2014 18:54:13 GMT-0600 (MDT) [sid:ubtmqyhw7b9] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Tue Apr 15 2014 18:54:13 GMT-0600 (MDT) [sid:ubtmqyhw7b9] [addNotify] [getEmail] currentEmail from qmon: null,8014274617@sms.mycricket.com
+Tue Apr 15 2014 18:54:13 GMT-0600 (MDT) [sid:ubtmqyhw7b9] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Tue Apr 15 2014 18:54:13 GMT-0600 (MDT) [sid:ubtmqyhw7b9] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Tue Apr 15 2014 18:54:13 GMT-0600 (MDT) [sid:ubtmqyhw7b9] [addNotify] [userList] current list: abe
+Tue Apr 15 2014 18:54:36 GMT-0600 (MDT) [sid:fuwdas5g66r] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Tue Apr 15 2014 18:54:36 GMT-0600 (MDT) [sid:fuwdas5g66r] [addNotify] [getEmail] currentEmail from qmon: null,8014274617@sms.mycricket.com
+Tue Apr 15 2014 18:54:36 GMT-0600 (MDT) [sid:fuwdas5g66r] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Tue Apr 15 2014 18:54:36 GMT-0600 (MDT) [sid:fuwdas5g66r] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Tue Apr 15 2014 18:54:36 GMT-0600 (MDT) [sid:fuwdas5g66r] [addNotify] [userList] current list: abe
+Tue Apr 15 2014 21:00:01 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Wed Apr 16 2014 21:00:01 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Thu Apr 17 2014 21:00:01 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Fri Apr 18 2014 15:45:24 GMT-0600 (MDT) [sid:hyavx2h85mi] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Fri Apr 18 2014 15:45:24 GMT-0600 (MDT) [sid:hyavx2h85mi] [addNotify] [getEmail] currentEmail from qmon: null
+Fri Apr 18 2014 15:45:24 GMT-0600 (MDT) [sid:hyavx2h85mi] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Fri Apr 18 2014 15:45:24 GMT-0600 (MDT) [sid:hyavx2h85mi] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Fri Apr 18 2014 15:45:24 GMT-0600 (MDT) [sid:hyavx2h85mi] [addNotify] [userList] current list: abe
+Fri Apr 18 2014 21:00:01 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Sat Apr 19 2014 10:44:07 GMT-0600 (MDT) [sid:iroyha4te29] [addNotify] New request from 137.65.222.113: elgiedavis - edavis@novell.com, 9542573305@txt.att.net
+Sat Apr 19 2014 10:44:07 GMT-0600 (MDT) [sid:iroyha4te29] [addNotify] [getEmail] currentEmail from qmon: null
+Sat Apr 19 2014 10:44:07 GMT-0600 (MDT) [sid:iroyha4te29] [addNotify] [newEmail] appending: edavis@novell.com,9542573305@txt.att.net
+Sat Apr 19 2014 10:44:07 GMT-0600 (MDT) [sid:iroyha4te29] [updateNotify] [putEmail] result: null,edavis@novell.com,9542573305@txt.att.net
+Sat Apr 19 2014 10:44:07 GMT-0600 (MDT) [sid:iroyha4te29] [addNotify] [userList] current list: elgiedavis
+Sat Apr 19 2014 21:00:01 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Sun Apr 20 2014 03:18:59 GMT-0600 (MDT) Express server is listening securely on port 443
+Sun Apr 20 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Mon Apr 21 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Tue Apr 22 2014 19:29:44 GMT-0600 (MDT) [sid:erlknj98uxr] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Tue Apr 22 2014 19:29:44 GMT-0600 (MDT) [sid:erlknj98uxr] [addNotify] [getEmail] currentEmail from qmon: null
+Tue Apr 22 2014 19:29:44 GMT-0600 (MDT) [sid:erlknj98uxr] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Tue Apr 22 2014 19:29:44 GMT-0600 (MDT) [sid:erlknj98uxr] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Tue Apr 22 2014 19:29:44 GMT-0600 (MDT) [sid:erlknj98uxr] [addNotify] [userList] current list: abe
+Tue Apr 22 2014 20:16:20 GMT-0600 (MDT) [sid:conypynwmi] [addNotify] New request from 137.65.150.87: Ian Palmer - undefined, 8016875234@txt.att.net
+Tue Apr 22 2014 20:16:20 GMT-0600 (MDT) [sid:conypynwmi] [addNotify] [getEmail] currentEmail from qmon: null,8014274617@sms.mycricket.com
+Tue Apr 22 2014 20:16:20 GMT-0600 (MDT) [sid:conypynwmi] [addNotify] [newEmail] appending: 8016875234@txt.att.net
+Tue Apr 22 2014 20:16:20 GMT-0600 (MDT) [sid:conypynwmi] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com,8016875234@txt.att.net
+Tue Apr 22 2014 20:16:20 GMT-0600 (MDT) [sid:conypynwmi] [addNotify] [userList] current list: Ian Palmer,abe
+Tue Apr 22 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Wed Apr 23 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Thu Apr 24 2014 12:35:20 GMT-0600 (MDT) [sid:8minw64j9k9] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Thu Apr 24 2014 12:35:20 GMT-0600 (MDT) [sid:8minw64j9k9] [addNotify] [getEmail] currentEmail from qmon: null
+Thu Apr 24 2014 12:35:20 GMT-0600 (MDT) [sid:8minw64j9k9] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Thu Apr 24 2014 12:35:20 GMT-0600 (MDT) [sid:8minw64j9k9] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Thu Apr 24 2014 12:35:20 GMT-0600 (MDT) [sid:8minw64j9k9] [addNotify] [userList] current list: abe
+Thu Apr 24 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Fri Apr 25 2014 17:06:53 GMT-0600 (MDT) [sid:qh9elxcrf6r] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Fri Apr 25 2014 17:06:53 GMT-0600 (MDT) [sid:qh9elxcrf6r] [addNotify] [getEmail] currentEmail from qmon: null
+Fri Apr 25 2014 17:06:53 GMT-0600 (MDT) [sid:qh9elxcrf6r] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Fri Apr 25 2014 17:06:53 GMT-0600 (MDT) [sid:qh9elxcrf6r] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Fri Apr 25 2014 17:06:53 GMT-0600 (MDT) [sid:qh9elxcrf6r] [addNotify] [userList] current list: abe
+Fri Apr 25 2014 21:00:01 GMT-0600 (MDT) [scheduler] [reset] exec error: Error: Command failed: 
+Sat Apr 26 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Sun Apr 27 2014 03:14:51 GMT-0600 (MDT) Express server is listening securely on port 443
+Sun Apr 27 2014 09:19:19 GMT-0600 (MDT) [sid:ec3n76z85mi] [addNotify] New request from 137.65.220.233: Shane Nielson - undefined, 8015921467@vtext.com
+Sun Apr 27 2014 09:19:19 GMT-0600 (MDT) [sid:ec3n76z85mi] [addNotify] [getEmail] currentEmail from qmon: null
+Sun Apr 27 2014 09:19:19 GMT-0600 (MDT) [sid:ec3n76z85mi] [addNotify] [newEmail] appending: 8015921467@vtext.com
+Sun Apr 27 2014 09:19:20 GMT-0600 (MDT) [sid:ec3n76z85mi] [updateNotify] [putEmail] result: null,8015921467@vtext.com
+Sun Apr 27 2014 09:19:20 GMT-0600 (MDT) [sid:ec3n76z85mi] [addNotify] [userList] current list: Shane Nielson
+Sun Apr 27 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Mon Apr 28 2014 11:32:13 GMT-0600 (MDT) [sid:4tuciejyvi] [addNotify] New request from 151.155.215.175: Frank Gadri - vivoon29@gmail.com, 8018645048@tmomail.net
+Mon Apr 28 2014 11:32:13 GMT-0600 (MDT) [sid:4tuciejyvi] [addNotify] [getEmail] currentEmail from qmon: null
+Mon Apr 28 2014 11:32:13 GMT-0600 (MDT) [sid:4tuciejyvi] [addNotify] [newEmail] appending: vivoon29@gmail.com,8018645048@tmomail.net
+Mon Apr 28 2014 11:32:13 GMT-0600 (MDT) [sid:4tuciejyvi] [updateNotify] [putEmail] result: null,vivoon29@gmail.com,8018645048@tmomail.net
+Mon Apr 28 2014 11:32:13 GMT-0600 (MDT) [sid:4tuciejyvi] [addNotify] [userList] current list: Frank Gadri
+Mon Apr 28 2014 11:47:21 GMT-0600 (MDT) [sid:shpxq392j4i] [removeNotify] New request from 151.155.215.175: Frank Gadri - vivoon29@gmail.com, 8018645048@tmomail.net
+Mon Apr 28 2014 11:47:21 GMT-0600 (MDT) [sid:shpxq392j4i] [removeNotify] [removeValues] keeping: null
+Mon Apr 28 2014 11:47:21 GMT-0600 (MDT) [sid:shpxq392j4i] [updateNotify] [putEmail] result: null
+Mon Apr 28 2014 11:47:21 GMT-0600 (MDT) [sid:shpxq392j4i] [removeNotify] [userList] current list:  undefined
+Mon Apr 28 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Tue Apr 29 2014 09:16:13 GMT-0600 (MDT) Express server is listening securely on port 443
+Tue Apr 29 2014 09:37:57 GMT-0600 (MDT) Express server is listening securely on port 443
+Tue Apr 29 2014 13:22:24 GMT-0600 (MDT) Express server is listening securely on port 443
+Tue Apr 29 2014 13:51:20 GMT-0600 (MDT) Express server is listening securely on port 443
+Tue Apr 29 2014 17:44:49 GMT-0600 (MDT) [sid:yk62mx6r] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Tue Apr 29 2014 17:44:49 GMT-0600 (MDT) [sid:yk62mx6r] [addNotify] [getEmail] currentEmail from qmon: null
+Tue Apr 29 2014 17:44:49 GMT-0600 (MDT) [sid:yk62mx6r] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Tue Apr 29 2014 17:44:49 GMT-0600 (MDT) [sid:yk62mx6r] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Tue Apr 29 2014 17:44:49 GMT-0600 (MDT) [sid:yk62mx6r] [addNotify] [userList] current list: abe
+Tue Apr 29 2014 17:45:02 GMT-0600 (MDT) [sid:6nz7ze8w7b9] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Tue Apr 29 2014 17:45:02 GMT-0600 (MDT) [sid:6nz7ze8w7b9] [addNotify] [getEmail] currentEmail from qmon: null,8014274617@sms.mycricket.com
+Tue Apr 29 2014 17:45:02 GMT-0600 (MDT) [sid:6nz7ze8w7b9] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Tue Apr 29 2014 17:45:02 GMT-0600 (MDT) [sid:6nz7ze8w7b9] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Tue Apr 29 2014 17:45:02 GMT-0600 (MDT) [sid:6nz7ze8w7b9] [addNotify] [userList] current list: abe
+Tue Apr 29 2014 21:00:01 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Wed Apr 30 2014 18:11:32 GMT-0600 (MDT) [sid:v1809xdpldi] [addNotify] New request from 137.65.222.223: Kevin - the.kuhle@gmail.com, 8014718208@tmomail.net
+Wed Apr 30 2014 18:11:33 GMT-0600 (MDT) [sid:v1809xdpldi] [addNotify] [getEmail] currentEmail from qmon: null
+Wed Apr 30 2014 18:11:33 GMT-0600 (MDT) [sid:v1809xdpldi] [addNotify] [newEmail] appending: the.kuhle@gmail.com,8014718208@tmomail.net
+Wed Apr 30 2014 18:11:33 GMT-0600 (MDT) [sid:v1809xdpldi] [updateNotify] [putEmail] result: null,the.kuhle@gmail.com,8014718208@tmomail.net
+Wed Apr 30 2014 18:11:33 GMT-0600 (MDT) [sid:v1809xdpldi] [addNotify] [userList] current list: Kevin
+Wed Apr 30 2014 21:00:01 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Wed Apr 30 2014 21:21:45 GMT-0600 (MDT) [sid:zbbzxzdunmi] [removeNotify] New request from 137.65.222.223: Kevin - the.kuhle@gmail.com, 8014718208@tmomail.net
+Wed Apr 30 2014 21:21:45 GMT-0600 (MDT) [sid:zbbzxzdunmi] [removeNotify] [removeValues] keeping: null
+Wed Apr 30 2014 21:21:45 GMT-0600 (MDT) [sid:zbbzxzdunmi] [updateNotify] [putEmail] result: null
+Wed Apr 30 2014 21:21:45 GMT-0600 (MDT) [sid:zbbzxzdunmi] [removeNotify] [userList] current list:  undefined
+Thu May 01 2014 17:41:17 GMT-0600 (MDT) [sid:ocopvlk57b9] [addNotify] New request from 151.155.215.89: Tyler Harris - undefined, 5302001919@vtext.com
+Thu May 01 2014 17:41:17 GMT-0600 (MDT) [sid:ocopvlk57b9] [addNotify] [getEmail] currentEmail from qmon: null
+Thu May 01 2014 17:41:17 GMT-0600 (MDT) [sid:ocopvlk57b9] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Thu May 01 2014 17:41:17 GMT-0600 (MDT) [sid:ocopvlk57b9] [updateNotify] [putEmail] result: null,5302001919@vtext.com
+Thu May 01 2014 17:41:17 GMT-0600 (MDT) [sid:ocopvlk57b9] [addNotify] [userList] current list: Tyler Harris
+Thu May 01 2014 21:00:01 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Fri May 02 2014 16:01:56 GMT-0600 (MDT) [sid:kz38jb57b9] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Fri May 02 2014 16:01:56 GMT-0600 (MDT) [sid:kz38jb57b9] [addNotify] [getEmail] currentEmail from qmon: null
+Fri May 02 2014 16:01:56 GMT-0600 (MDT) [sid:kz38jb57b9] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Fri May 02 2014 16:01:56 GMT-0600 (MDT) [sid:kz38jb57b9] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Fri May 02 2014 16:01:56 GMT-0600 (MDT) [sid:kz38jb57b9] [addNotify] [userList] current list: abe
+Fri May 02 2014 16:02:12 GMT-0600 (MDT) [sid:9bgzkh5b3xr] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Fri May 02 2014 16:02:12 GMT-0600 (MDT) [sid:9bgzkh5b3xr] [addNotify] [getEmail] currentEmail from qmon: null,8014274617@sms.mycricket.com
+Fri May 02 2014 16:02:12 GMT-0600 (MDT) [sid:9bgzkh5b3xr] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Fri May 02 2014 16:02:12 GMT-0600 (MDT) [sid:9bgzkh5b3xr] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Fri May 02 2014 16:02:12 GMT-0600 (MDT) [sid:9bgzkh5b3xr] [addNotify] [userList] current list: abe
+Fri May 02 2014 17:00:00 GMT-0600 (MDT) [sid:ks516dmquxr] [addNotify] New request from 137.65.223.72: Shane Nielson - undefined, 8015921467@vtext.com
+Fri May 02 2014 17:00:00 GMT-0600 (MDT) [sid:ks516dmquxr] [addNotify] [getEmail] currentEmail from qmon: null,8014274617@sms.mycricket.com
+Fri May 02 2014 17:00:00 GMT-0600 (MDT) [sid:ks516dmquxr] [addNotify] [newEmail] appending: 8015921467@vtext.com
+Fri May 02 2014 17:00:00 GMT-0600 (MDT) [sid:ks516dmquxr] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com,8015921467@vtext.com
+Fri May 02 2014 17:00:00 GMT-0600 (MDT) [sid:ks516dmquxr] [addNotify] [userList] current list: Shane Nielson,abe
+Fri May 02 2014 21:00:01 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Sat May 03 2014 10:02:41 GMT-0600 (MDT) [sid:ezvnygphkt9] [addNotify] New request from 137.65.223.64: elgiedavis - edavis@novell.com, 9542573305@txt.att.net
+Sat May 03 2014 10:02:41 GMT-0600 (MDT) [sid:ezvnygphkt9] [addNotify] [getEmail] currentEmail from qmon: null
+Sat May 03 2014 10:02:41 GMT-0600 (MDT) [sid:ezvnygphkt9] [addNotify] [newEmail] appending: edavis@novell.com,9542573305@txt.att.net
+Sat May 03 2014 10:02:41 GMT-0600 (MDT) [sid:ezvnygphkt9] [updateNotify] [putEmail] result: null,edavis@novell.com,9542573305@txt.att.net
+Sat May 03 2014 10:02:41 GMT-0600 (MDT) [sid:ezvnygphkt9] [addNotify] [userList] current list: elgiedavis
+Sat May 03 2014 20:41:29 GMT-0600 (MDT) [sid:0f4a3l92j4i] [removeNotify] New request from 137.65.223.64: elgiedavis - edavis@novell.com, 9542573305@txt.att.net
+Sat May 03 2014 20:41:29 GMT-0600 (MDT) [sid:0f4a3l92j4i] [removeNotify] [removeValues] keeping: null
+Sat May 03 2014 20:41:30 GMT-0600 (MDT) [sid:0f4a3l92j4i] [updateNotify] [putEmail] result: null
+Sat May 03 2014 20:41:30 GMT-0600 (MDT) [sid:0f4a3l92j4i] [removeNotify] [userList] current list:  undefined
+Sat May 03 2014 21:00:01 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Sun May 04 2014 03:14:50 GMT-0600 (MDT) Express server is listening securely on port 443
+Sun May 04 2014 09:09:06 GMT-0600 (MDT) [sid:0wzymvlsor] [addNotify] New request from 137.65.223.54: Kevin - undefined, 8014718208@tmomail.net
+Sun May 04 2014 09:09:06 GMT-0600 (MDT) [sid:0wzymvlsor] [addNotify] [getEmail] currentEmail from qmon: null
+Sun May 04 2014 09:09:06 GMT-0600 (MDT) [sid:0wzymvlsor] [addNotify] [newEmail] appending: 8014718208@tmomail.net
+Sun May 04 2014 09:09:06 GMT-0600 (MDT) [sid:0wzymvlsor] [updateNotify] [putEmail] result: null,8014718208@tmomail.net
+Sun May 04 2014 09:09:06 GMT-0600 (MDT) [sid:0wzymvlsor] [addNotify] [userList] current list: Kevin
+Sun May 04 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Mon May 05 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Tue May 06 2014 18:30:29 GMT-0600 (MDT) [sid:w3v3yjh5mi] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Tue May 06 2014 18:30:29 GMT-0600 (MDT) [sid:w3v3yjh5mi] [addNotify] [getEmail] currentEmail from qmon: null
+Tue May 06 2014 18:30:29 GMT-0600 (MDT) [sid:w3v3yjh5mi] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Tue May 06 2014 18:30:29 GMT-0600 (MDT) [sid:w3v3yjh5mi] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Tue May 06 2014 18:30:29 GMT-0600 (MDT) [sid:w3v3yjh5mi] [addNotify] [userList] current list: abe
+Tue May 06 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Wed May 07 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Thu May 08 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Fri May 09 2014 16:17:16 GMT-0600 (MDT) [sid:zy3yfqlrf6r] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Fri May 09 2014 16:17:16 GMT-0600 (MDT) [sid:zy3yfqlrf6r] [addNotify] [getEmail] currentEmail from qmon: null
+Fri May 09 2014 16:17:16 GMT-0600 (MDT) [sid:zy3yfqlrf6r] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Fri May 09 2014 16:17:16 GMT-0600 (MDT) [sid:zy3yfqlrf6r] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Fri May 09 2014 16:17:16 GMT-0600 (MDT) [sid:zy3yfqlrf6r] [addNotify] [userList] current list: abe
+Fri May 09 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Sat May 10 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Sun May 11 2014 03:14:49 GMT-0600 (MDT) Express server is listening securely on port 443
+Sun May 11 2014 08:55:36 GMT-0600 (MDT) [sid:xwy9wetrzfr] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Sun May 11 2014 08:55:36 GMT-0600 (MDT) [sid:xwy9wetrzfr] [addNotify] [getEmail] currentEmail from qmon: null
+Sun May 11 2014 08:55:36 GMT-0600 (MDT) [sid:xwy9wetrzfr] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Sun May 11 2014 08:55:36 GMT-0600 (MDT) [sid:xwy9wetrzfr] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Sun May 11 2014 08:55:36 GMT-0600 (MDT) [sid:xwy9wetrzfr] [addNotify] [userList] current list: abe
+Sun May 11 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Mon May 12 2014 21:00:01 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Tue May 13 2014 14:44:31 GMT-0600 (MDT) [sid:etflqgaxlxr] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Tue May 13 2014 14:44:31 GMT-0600 (MDT) [sid:etflqgaxlxr] [addNotify] [getEmail] currentEmail from qmon: null
+Tue May 13 2014 14:44:31 GMT-0600 (MDT) [sid:etflqgaxlxr] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Tue May 13 2014 14:44:31 GMT-0600 (MDT) [sid:etflqgaxlxr] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Tue May 13 2014 14:44:31 GMT-0600 (MDT) [sid:etflqgaxlxr] [addNotify] [userList] current list: abe
+Tue May 13 2014 21:00:01 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Wed May 14 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Thu May 15 2014 15:15:23 GMT-0600 (MDT) Express server is listening securely on port 443
+Thu May 15 2014 17:53:28 GMT-0600 (MDT) [sid:uyj6qsvpldi] [addNotify] New request from 151.155.215.89: Tyler Harris - undefined, 5302001919@vtext.com
+Thu May 15 2014 17:53:28 GMT-0600 (MDT) [sid:uyj6qsvpldi] [addNotify] [getEmail] currentEmail from qmon: null
+Thu May 15 2014 17:53:28 GMT-0600 (MDT) [sid:uyj6qsvpldi] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Thu May 15 2014 17:53:28 GMT-0600 (MDT) [sid:uyj6qsvpldi] [updateNotify] [putEmail] result: null,5302001919@vtext.com
+Thu May 15 2014 17:53:28 GMT-0600 (MDT) [sid:uyj6qsvpldi] [addNotify] [userList] current list: Tyler Harris
+Thu May 15 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Fri May 16 2014 16:51:33 GMT-0600 (MDT) [sid:48722hs38fr] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Fri May 16 2014 16:51:33 GMT-0600 (MDT) [sid:48722hs38fr] [addNotify] [getEmail] currentEmail from qmon: null
+Fri May 16 2014 16:51:33 GMT-0600 (MDT) [sid:48722hs38fr] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Fri May 16 2014 16:51:33 GMT-0600 (MDT) [sid:48722hs38fr] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Fri May 16 2014 16:51:33 GMT-0600 (MDT) [sid:48722hs38fr] [addNotify] [userList] current list: abe
+Fri May 16 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Sat May 17 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Sun May 18 2014 03:17:45 GMT-0600 (MDT) Express server is listening securely on port 443
+Sun May 18 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Mon May 19 2014 17:04:54 GMT-0600 (MDT) [sid:mv7qilik9] [addNotify] New request from 137.65.222.88: elgiedavis - edavis@novell.com, 9542573305@txt.att.net
+Mon May 19 2014 17:04:54 GMT-0600 (MDT) [sid:mv7qilik9] [addNotify] [getEmail] currentEmail from qmon: null
+Mon May 19 2014 17:04:54 GMT-0600 (MDT) [sid:mv7qilik9] [addNotify] [newEmail] appending: edavis@novell.com,9542573305@txt.att.net
+Mon May 19 2014 17:04:54 GMT-0600 (MDT) [sid:mv7qilik9] [updateNotify] [putEmail] result: null,edavis@novell.com,9542573305@txt.att.net
+Mon May 19 2014 17:04:54 GMT-0600 (MDT) [sid:mv7qilik9] [addNotify] [userList] current list: elgiedavis
+Mon May 19 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Tue May 20 2014 17:06:55 GMT-0600 (MDT) [sid:yvf4a6skyb9] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Tue May 20 2014 17:06:55 GMT-0600 (MDT) [sid:yvf4a6skyb9] [addNotify] [getEmail] currentEmail from qmon: null
+Tue May 20 2014 17:06:55 GMT-0600 (MDT) [sid:yvf4a6skyb9] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Tue May 20 2014 17:06:55 GMT-0600 (MDT) [sid:yvf4a6skyb9] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Tue May 20 2014 17:06:55 GMT-0600 (MDT) [sid:yvf4a6skyb9] [addNotify] [userList] current list: abe
+Tue May 20 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Wed May 21 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Thu May 22 2014 16:53:07 GMT-0600 (MDT) [sid:2wzo9nng66r] [addNotify] New request from 151.155.215.89: Tyler Harris - undefined, 5302001919@vtext.com
+Thu May 22 2014 16:53:07 GMT-0600 (MDT) [sid:2wzo9nng66r] [addNotify] [getEmail] currentEmail from qmon: null
+Thu May 22 2014 16:53:07 GMT-0600 (MDT) [sid:2wzo9nng66r] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Thu May 22 2014 16:53:07 GMT-0600 (MDT) [sid:2wzo9nng66r] [updateNotify] [putEmail] result: null,5302001919@vtext.com
+Thu May 22 2014 16:53:07 GMT-0600 (MDT) [sid:2wzo9nng66r] [addNotify] [userList] current list: Tyler Harris
+Thu May 22 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Fri May 23 2014 11:33:28 GMT-0600 (MDT) Express server is listening securely on port 443
+Fri May 23 2014 14:11:41 GMT-0600 (MDT) Express server is listening securely on port 443
+Fri May 23 2014 14:26:59 GMT-0600 (MDT) Express server is listening securely on port 443
+Fri May 23 2014 15:02:52 GMT-0600 (MDT) [sid:703wwx6flxr] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Fri May 23 2014 15:02:52 GMT-0600 (MDT) [sid:703wwx6flxr] [addNotify] [getEmail] currentEmail from qmon: null
+Fri May 23 2014 15:02:52 GMT-0600 (MDT) [sid:703wwx6flxr] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Fri May 23 2014 15:02:52 GMT-0600 (MDT) [sid:703wwx6flxr] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Fri May 23 2014 15:02:52 GMT-0600 (MDT) [sid:703wwx6flxr] [addNotify] [userList] current list: abe
+Fri May 23 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Sat May 24 2014 08:53:55 GMT-0600 (MDT) [sid:4zbq4ims4i] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Sat May 24 2014 08:53:55 GMT-0600 (MDT) [sid:4zbq4ims4i] [addNotify] [getEmail] currentEmail from qmon: null
+Sat May 24 2014 08:53:55 GMT-0600 (MDT) [sid:4zbq4ims4i] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Sat May 24 2014 08:53:55 GMT-0600 (MDT) [sid:4zbq4ims4i] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Sat May 24 2014 08:53:55 GMT-0600 (MDT) [sid:4zbq4ims4i] [addNotify] [userList] current list: abe
+Sat May 24 2014 21:00:01 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Sun May 25 2014 03:09:37 GMT-0600 (MDT) Express server is listening securely on port 443
+Sun May 25 2014 10:50:30 GMT-0600 (MDT) [sid:a7au3e7mn29] [addNotify] New request from 137.65.222.91: fgadri - fgadri@novell.com, 8018645048@tmomail.net
+Sun May 25 2014 10:50:30 GMT-0600 (MDT) [sid:a7au3e7mn29] [addNotify] [getEmail] currentEmail from qmon: null
+Sun May 25 2014 10:50:30 GMT-0600 (MDT) [sid:a7au3e7mn29] [addNotify] [newEmail] appending: fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 10:50:30 GMT-0600 (MDT) [sid:a7au3e7mn29] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 10:50:30 GMT-0600 (MDT) [sid:a7au3e7mn29] [addNotify] [userList] current list: fgadri
+Sun May 25 2014 10:56:03 GMT-0600 (MDT) [sid:581fnvims4i] [addNotify] New request from 137.65.222.91: fgadri - fgadri@novell.com, 8018645048@tmomail.net
+Sun May 25 2014 10:56:03 GMT-0600 (MDT) [sid:581fnvims4i] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 10:56:03 GMT-0600 (MDT) [sid:581fnvims4i] [addNotify] [newEmail] appending: fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 10:56:03 GMT-0600 (MDT) [sid:581fnvims4i] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 10:56:03 GMT-0600 (MDT) [sid:581fnvims4i] [addNotify] [userList] current list: fgadri
+Sun May 25 2014 10:56:05 GMT-0600 (MDT) [sid:ph34xk9y66r] [addNotify] New request from 137.65.222.91: fgadri - fgadri@novell.com, 8018645048@tmomail.net
+Sun May 25 2014 10:56:05 GMT-0600 (MDT) [sid:ph34xk9y66r] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 10:56:05 GMT-0600 (MDT) [sid:ph34xk9y66r] [addNotify] [newEmail] appending: fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 10:56:05 GMT-0600 (MDT) [sid:ph34xk9y66r] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 10:56:05 GMT-0600 (MDT) [sid:ph34xk9y66r] [addNotify] [userList] current list: fgadri
+Sun May 25 2014 16:37:50 GMT-0600 (MDT) [sid:nrhda6skyb9] [addNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:37:50 GMT-0600 (MDT) [sid:nrhda6skyb9] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:37:50 GMT-0600 (MDT) [sid:nrhda6skyb9] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun May 25 2014 16:37:51 GMT-0600 (MDT) [sid:nrhda6skyb9] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:37:51 GMT-0600 (MDT) [sid:nrhda6skyb9] [addNotify] [userList] current list: tharris,fgadri
+Sun May 25 2014 16:41:09 GMT-0600 (MDT) [sid:sppztjwz5mi] [removeNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:41:09 GMT-0600 (MDT) [sid:sppztjwz5mi] [removeNotify] [removeValues] keeping: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:41:09 GMT-0600 (MDT) [sid:sppztjwz5mi] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:41:09 GMT-0600 (MDT) [sid:sppztjwz5mi] [removeNotify] [userList] current list: fgadri undefined
+Sun May 25 2014 16:41:11 GMT-0600 (MDT) [sid:mkki5m6lxr] [addNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:41:11 GMT-0600 (MDT) [sid:mkki5m6lxr] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:41:11 GMT-0600 (MDT) [sid:mkki5m6lxr] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun May 25 2014 16:41:11 GMT-0600 (MDT) [sid:mkki5m6lxr] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:41:11 GMT-0600 (MDT) [sid:mkki5m6lxr] [addNotify] [userList] current list: tharris,fgadri
+Sun May 25 2014 16:41:13 GMT-0600 (MDT) [sid:9ha1nnuerk9] [removeNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:41:13 GMT-0600 (MDT) [sid:9ha1nnuerk9] [removeNotify] [removeValues] keeping: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:41:13 GMT-0600 (MDT) [sid:9ha1nnuerk9] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:41:13 GMT-0600 (MDT) [sid:9ha1nnuerk9] [removeNotify] [userList] current list: fgadri undefined
+Sun May 25 2014 16:41:20 GMT-0600 (MDT) [sid:8dj6rc3ow29] [addNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:41:20 GMT-0600 (MDT) [sid:8dj6rc3ow29] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:41:20 GMT-0600 (MDT) [sid:8dj6rc3ow29] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun May 25 2014 16:41:20 GMT-0600 (MDT) [sid:8dj6rc3ow29] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:41:20 GMT-0600 (MDT) [sid:8dj6rc3ow29] [addNotify] [userList] current list: tharris,fgadri
+Sun May 25 2014 16:41:52 GMT-0600 (MDT) [sid:0n6v3jl9pb9] [addNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:41:52 GMT-0600 (MDT) [sid:0n6v3jl9pb9] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:41:52 GMT-0600 (MDT) [sid:0n6v3jl9pb9] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun May 25 2014 16:41:52 GMT-0600 (MDT) [sid:0n6v3jl9pb9] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:41:52 GMT-0600 (MDT) [sid:0n6v3jl9pb9] [addNotify] [userList] current list: tharris,fgadri
+Sun May 25 2014 16:41:56 GMT-0600 (MDT) [sid:hipnxijatt9] [removeNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:41:56 GMT-0600 (MDT) [sid:hipnxijatt9] [removeNotify] [removeValues] keeping: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:41:56 GMT-0600 (MDT) [sid:hipnxijatt9] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:41:56 GMT-0600 (MDT) [sid:hipnxijatt9] [removeNotify] [userList] current list: fgadri undefined
+Sun May 25 2014 16:42:33 GMT-0600 (MDT) [sid:zy2zzxv42t9] [addNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:42:33 GMT-0600 (MDT) [sid:zy2zzxv42t9] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:42:33 GMT-0600 (MDT) [sid:zy2zzxv42t9] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun May 25 2014 16:42:33 GMT-0600 (MDT) [sid:zy2zzxv42t9] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:42:33 GMT-0600 (MDT) [sid:zy2zzxv42t9] [addNotify] [userList] current list: tharris,fgadri
+Sun May 25 2014 16:43:17 GMT-0600 (MDT) [sid:c09k96enrk9] [addNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:43:17 GMT-0600 (MDT) [sid:c09k96enrk9] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:43:17 GMT-0600 (MDT) [sid:c09k96enrk9] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun May 25 2014 16:43:17 GMT-0600 (MDT) [sid:c09k96enrk9] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:43:17 GMT-0600 (MDT) [sid:c09k96enrk9] [addNotify] [userList] current list: tharris,fgadri
+Sun May 25 2014 16:43:18 GMT-0600 (MDT) [sid:2xwisve7b9] [removeNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:43:18 GMT-0600 (MDT) [sid:2xwisve7b9] [removeNotify] [removeValues] keeping: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:43:18 GMT-0600 (MDT) [sid:2xwisve7b9] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:43:18 GMT-0600 (MDT) [sid:2xwisve7b9] [removeNotify] [userList] current list: fgadri undefined
+Sun May 25 2014 16:44:27 GMT-0600 (MDT) [sid:0p49x06n7b9] [addNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:44:27 GMT-0600 (MDT) [sid:0p49x06n7b9] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:44:27 GMT-0600 (MDT) [sid:0p49x06n7b9] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun May 25 2014 16:44:27 GMT-0600 (MDT) [sid:0p49x06n7b9] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:44:27 GMT-0600 (MDT) [sid:0p49x06n7b9] [addNotify] [userList] current list: tharris,fgadri
+Sun May 25 2014 16:44:37 GMT-0600 (MDT) [sid:kd9o8mmquxr] [addNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:44:37 GMT-0600 (MDT) [sid:kd9o8mmquxr] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:44:37 GMT-0600 (MDT) [sid:kd9o8mmquxr] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun May 25 2014 16:44:38 GMT-0600 (MDT) [sid:kd9o8mmquxr] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:44:38 GMT-0600 (MDT) [sid:kd9o8mmquxr] [addNotify] [userList] current list: tharris,fgadri
+Sun May 25 2014 16:44:39 GMT-0600 (MDT) [sid:qetc8ebqpvi] [addNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:44:39 GMT-0600 (MDT) [sid:qetc8ebqpvi] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:44:39 GMT-0600 (MDT) [sid:qetc8ebqpvi] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun May 25 2014 16:44:39 GMT-0600 (MDT) [sid:qetc8ebqpvi] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:44:39 GMT-0600 (MDT) [sid:qetc8ebqpvi] [addNotify] [userList] current list: tharris,fgadri
+Sun May 25 2014 16:44:39 GMT-0600 (MDT) [sid:8mw5n3cv7vi] [addNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:44:40 GMT-0600 (MDT) [sid:8mw5n3cv7vi] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:44:40 GMT-0600 (MDT) [sid:8mw5n3cv7vi] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun May 25 2014 16:44:40 GMT-0600 (MDT) [sid:8mw5n3cv7vi] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:44:40 GMT-0600 (MDT) [sid:8mw5n3cv7vi] [addNotify] [userList] current list: tharris,fgadri
+Sun May 25 2014 16:44:43 GMT-0600 (MDT) [sid:j0gyie019k9] [addNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:44:43 GMT-0600 (MDT) [sid:j0gyie019k9] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:44:43 GMT-0600 (MDT) [sid:j0gyie019k9] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun May 25 2014 16:44:43 GMT-0600 (MDT) [sid:j0gyie019k9] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:44:43 GMT-0600 (MDT) [sid:j0gyie019k9] [addNotify] [userList] current list: tharris,fgadri
+Sun May 25 2014 16:45:31 GMT-0600 (MDT) [sid:d0yz3x9wwmi] [addNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:45:31 GMT-0600 (MDT) [sid:d0yz3x9wwmi] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:45:31 GMT-0600 (MDT) [sid:d0yz3x9wwmi] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun May 25 2014 16:45:31 GMT-0600 (MDT) [sid:d0yz3x9wwmi] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:45:31 GMT-0600 (MDT) [sid:d0yz3x9wwmi] [addNotify] [userList] current list: tharris,fgadri
+Sun May 25 2014 16:46:24 GMT-0600 (MDT) [sid:zvyghnnrk9] [addNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:46:24 GMT-0600 (MDT) [sid:zvyghnnrk9] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:46:24 GMT-0600 (MDT) [sid:zvyghnnrk9] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun May 25 2014 16:46:24 GMT-0600 (MDT) [sid:zvyghnnrk9] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:46:24 GMT-0600 (MDT) [sid:zvyghnnrk9] [addNotify] [userList] current list: tharris,fgadri
+Sun May 25 2014 16:46:27 GMT-0600 (MDT) [sid:tcliuxflxr] [removeNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:46:27 GMT-0600 (MDT) [sid:tcliuxflxr] [removeNotify] [removeValues] keeping: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:46:27 GMT-0600 (MDT) [sid:tcliuxflxr] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:46:27 GMT-0600 (MDT) [sid:tcliuxflxr] [removeNotify] [userList] current list: fgadri undefined
+Sun May 25 2014 16:47:07 GMT-0600 (MDT) [sid:4y3pxskyb9] [addNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:47:07 GMT-0600 (MDT) [sid:4y3pxskyb9] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:47:07 GMT-0600 (MDT) [sid:4y3pxskyb9] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun May 25 2014 16:47:07 GMT-0600 (MDT) [sid:4y3pxskyb9] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:47:07 GMT-0600 (MDT) [sid:4y3pxskyb9] [addNotify] [userList] current list: tharris,fgadri
+Sun May 25 2014 16:47:13 GMT-0600 (MDT) [sid:j9vj2359udi] [removeNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:47:13 GMT-0600 (MDT) [sid:j9vj2359udi] [removeNotify] [removeValues] keeping: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:47:13 GMT-0600 (MDT) [sid:j9vj2359udi] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:47:13 GMT-0600 (MDT) [sid:j9vj2359udi] [removeNotify] [userList] current list: fgadri undefined
+Sun May 25 2014 16:47:14 GMT-0600 (MDT) [sid:wngymayk3xr] [addNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:47:14 GMT-0600 (MDT) [sid:wngymayk3xr] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:47:14 GMT-0600 (MDT) [sid:wngymayk3xr] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun May 25 2014 16:47:14 GMT-0600 (MDT) [sid:wngymayk3xr] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:47:14 GMT-0600 (MDT) [sid:wngymayk3xr] [addNotify] [userList] current list: tharris,fgadri
+Sun May 25 2014 16:47:16 GMT-0600 (MDT) [sid:c6w9y41v2t9] [removeNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:47:16 GMT-0600 (MDT) [sid:c6w9y41v2t9] [removeNotify] [removeValues] keeping: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:47:16 GMT-0600 (MDT) [sid:c6w9y41v2t9] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:47:16 GMT-0600 (MDT) [sid:c6w9y41v2t9] [removeNotify] [userList] current list: fgadri undefined
+Sun May 25 2014 16:47:27 GMT-0600 (MDT) [sid:d434v2kpgb9] [addNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:47:27 GMT-0600 (MDT) [sid:d434v2kpgb9] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:47:27 GMT-0600 (MDT) [sid:d434v2kpgb9] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun May 25 2014 16:47:27 GMT-0600 (MDT) [sid:d434v2kpgb9] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:47:27 GMT-0600 (MDT) [sid:d434v2kpgb9] [addNotify] [userList] current list: tharris,fgadri
+Sun May 25 2014 16:48:10 GMT-0600 (MDT) [sid:wn1mea5rk9] [addNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:48:10 GMT-0600 (MDT) [sid:wn1mea5rk9] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:48:10 GMT-0600 (MDT) [sid:wn1mea5rk9] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun May 25 2014 16:48:10 GMT-0600 (MDT) [sid:wn1mea5rk9] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:48:10 GMT-0600 (MDT) [sid:wn1mea5rk9] [addNotify] [userList] current list: tharris,fgadri
+Sun May 25 2014 16:48:11 GMT-0600 (MDT) [sid:x7873jcq5mi] [removeNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:48:11 GMT-0600 (MDT) [sid:x7873jcq5mi] [removeNotify] [removeValues] keeping: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:48:11 GMT-0600 (MDT) [sid:x7873jcq5mi] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:48:11 GMT-0600 (MDT) [sid:x7873jcq5mi] [removeNotify] [userList] current list: fgadri undefined
+Sun May 25 2014 16:48:23 GMT-0600 (MDT) [sid:z77ybzc9pb9] [addNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:48:23 GMT-0600 (MDT) [sid:z77ybzc9pb9] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:48:23 GMT-0600 (MDT) [sid:z77ybzc9pb9] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun May 25 2014 16:48:23 GMT-0600 (MDT) [sid:z77ybzc9pb9] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:48:23 GMT-0600 (MDT) [sid:z77ybzc9pb9] [addNotify] [userList] current list: tharris,fgadri
+Sun May 25 2014 16:48:34 GMT-0600 (MDT) [sid:bcpff1aif6r] [addNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:48:34 GMT-0600 (MDT) [sid:bcpff1aif6r] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:48:34 GMT-0600 (MDT) [sid:bcpff1aif6r] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun May 25 2014 16:48:34 GMT-0600 (MDT) [sid:bcpff1aif6r] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:48:34 GMT-0600 (MDT) [sid:bcpff1aif6r] [addNotify] [userList] current list: tharris,fgadri
+Sun May 25 2014 16:48:35 GMT-0600 (MDT) [sid:1mxgjeb3xr] [removeNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:48:35 GMT-0600 (MDT) [sid:1mxgjeb3xr] [removeNotify] [removeValues] keeping: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:48:35 GMT-0600 (MDT) [sid:1mxgjeb3xr] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:48:35 GMT-0600 (MDT) [sid:1mxgjeb3xr] [removeNotify] [userList] current list: fgadri undefined
+Sun May 25 2014 16:48:37 GMT-0600 (MDT) [sid:t2l4841jor] [addNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:48:37 GMT-0600 (MDT) [sid:t2l4841jor] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:48:37 GMT-0600 (MDT) [sid:t2l4841jor] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun May 25 2014 16:48:37 GMT-0600 (MDT) [sid:t2l4841jor] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:48:37 GMT-0600 (MDT) [sid:t2l4841jor] [addNotify] [userList] current list: tharris,fgadri
+Sun May 25 2014 16:48:38 GMT-0600 (MDT) [sid:sogzld6lxr] [removeNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:48:38 GMT-0600 (MDT) [sid:sogzld6lxr] [removeNotify] [removeValues] keeping: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:48:39 GMT-0600 (MDT) [sid:sogzld6lxr] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:48:39 GMT-0600 (MDT) [sid:sogzld6lxr] [removeNotify] [userList] current list: fgadri undefined
+Sun May 25 2014 16:48:49 GMT-0600 (MDT) [sid:sr5jii19k9] [removeNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:48:49 GMT-0600 (MDT) [sid:sr5jii19k9] [removeNotify] [removeValues] keeping: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:48:49 GMT-0600 (MDT) [sid:sr5jii19k9] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:48:49 GMT-0600 (MDT) [sid:sr5jii19k9] [removeNotify] [userList] current list: fgadri undefined
+Sun May 25 2014 16:49:09 GMT-0600 (MDT) [sid:61rapbn8kt9] [removeNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:49:09 GMT-0600 (MDT) [sid:61rapbn8kt9] [removeNotify] [removeValues] keeping: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:49:09 GMT-0600 (MDT) [sid:61rapbn8kt9] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:49:09 GMT-0600 (MDT) [sid:61rapbn8kt9] [removeNotify] [userList] current list: fgadri undefined
+Sun May 25 2014 16:49:15 GMT-0600 (MDT) [sid:w976yiizfr] [addNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:49:16 GMT-0600 (MDT) [sid:w976yiizfr] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:49:16 GMT-0600 (MDT) [sid:w976yiizfr] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun May 25 2014 16:49:16 GMT-0600 (MDT) [sid:w976yiizfr] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:49:16 GMT-0600 (MDT) [sid:w976yiizfr] [addNotify] [userList] current list: tharris,fgadri
+Sun May 25 2014 16:49:21 GMT-0600 (MDT) [sid:xw52pqa1yvi] [removeNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:49:21 GMT-0600 (MDT) [sid:xw52pqa1yvi] [removeNotify] [removeValues] keeping: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:49:22 GMT-0600 (MDT) [sid:xw52pqa1yvi] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:49:22 GMT-0600 (MDT) [sid:xw52pqa1yvi] [removeNotify] [userList] current list: fgadri undefined
+Sun May 25 2014 16:50:15 GMT-0600 (MDT) [sid:hbbf4c59udi] [addNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:50:15 GMT-0600 (MDT) [sid:hbbf4c59udi] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:50:15 GMT-0600 (MDT) [sid:hbbf4c59udi] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun May 25 2014 16:50:16 GMT-0600 (MDT) [sid:hbbf4c59udi] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:50:16 GMT-0600 (MDT) [sid:hbbf4c59udi] [addNotify] [userList] current list: tharris,fgadri
+Sun May 25 2014 16:51:28 GMT-0600 (MDT) [sid:iwooksgiudi] [addNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:51:28 GMT-0600 (MDT) [sid:iwooksgiudi] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:51:28 GMT-0600 (MDT) [sid:iwooksgiudi] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun May 25 2014 16:51:28 GMT-0600 (MDT) [sid:iwooksgiudi] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:51:28 GMT-0600 (MDT) [sid:iwooksgiudi] [addNotify] [userList] current list: tharris,fgadri
+Sun May 25 2014 16:51:36 GMT-0600 (MDT) [sid:j3affidlsor] [removeNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:51:36 GMT-0600 (MDT) [sid:j3affidlsor] [removeNotify] [removeValues] keeping: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:51:37 GMT-0600 (MDT) [sid:j3affidlsor] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:51:37 GMT-0600 (MDT) [sid:j3affidlsor] [removeNotify] [userList] current list: fgadri undefined
+Sun May 25 2014 16:52:07 GMT-0600 (MDT) [sid:o5j8mfmkj4i] [addNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:52:07 GMT-0600 (MDT) [sid:o5j8mfmkj4i] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:52:07 GMT-0600 (MDT) [sid:o5j8mfmkj4i] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun May 25 2014 16:52:07 GMT-0600 (MDT) [sid:o5j8mfmkj4i] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:52:07 GMT-0600 (MDT) [sid:o5j8mfmkj4i] [addNotify] [userList] current list: tharris,fgadri
+Sun May 25 2014 16:52:16 GMT-0600 (MDT) [sid:761idxwdn29] [addNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:52:16 GMT-0600 (MDT) [sid:761idxwdn29] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:52:16 GMT-0600 (MDT) [sid:761idxwdn29] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun May 25 2014 16:52:16 GMT-0600 (MDT) [sid:761idxwdn29] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:52:16 GMT-0600 (MDT) [sid:761idxwdn29] [addNotify] [userList] current list: tharris,fgadri
+Sun May 25 2014 16:52:25 GMT-0600 (MDT) [sid:px1o9don7b9] [addNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:52:25 GMT-0600 (MDT) [sid:px1o9don7b9] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:52:25 GMT-0600 (MDT) [sid:px1o9don7b9] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun May 25 2014 16:52:25 GMT-0600 (MDT) [sid:px1o9don7b9] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:52:25 GMT-0600 (MDT) [sid:px1o9don7b9] [addNotify] [userList] current list: tharris,fgadri
+Sun May 25 2014 16:52:33 GMT-0600 (MDT) [sid:uhn1ngq4cxr] [addNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:52:33 GMT-0600 (MDT) [sid:uhn1ngq4cxr] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:52:33 GMT-0600 (MDT) [sid:uhn1ngq4cxr] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun May 25 2014 16:52:33 GMT-0600 (MDT) [sid:uhn1ngq4cxr] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:52:33 GMT-0600 (MDT) [sid:uhn1ngq4cxr] [addNotify] [userList] current list: tharris,fgadri
+Sun May 25 2014 16:52:40 GMT-0600 (MDT) [sid:j0qppg5jyvi] [removeNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:52:40 GMT-0600 (MDT) [sid:j0qppg5jyvi] [removeNotify] [removeValues] keeping: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:52:40 GMT-0600 (MDT) [sid:j0qppg5jyvi] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:52:40 GMT-0600 (MDT) [sid:j0qppg5jyvi] [removeNotify] [userList] current list: fgadri undefined
+Sun May 25 2014 16:52:47 GMT-0600 (MDT) [sid:csvovquxr] [removeNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:52:47 GMT-0600 (MDT) [sid:csvovquxr] [removeNotify] [removeValues] keeping: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:52:47 GMT-0600 (MDT) [sid:csvovquxr] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:52:47 GMT-0600 (MDT) [sid:csvovquxr] [removeNotify] [userList] current list: fgadri undefined
+Sun May 25 2014 16:52:49 GMT-0600 (MDT) [sid:dyszrjatt9] [addNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:52:49 GMT-0600 (MDT) [sid:dyszrjatt9] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:52:49 GMT-0600 (MDT) [sid:dyszrjatt9] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun May 25 2014 16:52:49 GMT-0600 (MDT) [sid:dyszrjatt9] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:52:49 GMT-0600 (MDT) [sid:dyszrjatt9] [addNotify] [userList] current list: tharris,fgadri
+Sun May 25 2014 16:52:51 GMT-0600 (MDT) [sid:9dctx8t1emi] [removeNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:52:51 GMT-0600 (MDT) [sid:9dctx8t1emi] [removeNotify] [removeValues] keeping: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:52:51 GMT-0600 (MDT) [sid:9dctx8t1emi] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:52:51 GMT-0600 (MDT) [sid:9dctx8t1emi] [removeNotify] [userList] current list: fgadri undefined
+Sun May 25 2014 16:53:16 GMT-0600 (MDT) [sid:v5dcc7q4cxr] [addNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:53:16 GMT-0600 (MDT) [sid:v5dcc7q4cxr] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:53:16 GMT-0600 (MDT) [sid:v5dcc7q4cxr] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun May 25 2014 16:53:16 GMT-0600 (MDT) [sid:v5dcc7q4cxr] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:53:16 GMT-0600 (MDT) [sid:v5dcc7q4cxr] [addNotify] [userList] current list: tharris,fgadri
+Sun May 25 2014 16:53:19 GMT-0600 (MDT) [sid:jjfhto6r] [removeNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:53:19 GMT-0600 (MDT) [sid:jjfhto6r] [removeNotify] [removeValues] keeping: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:53:19 GMT-0600 (MDT) [sid:jjfhto6r] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:53:19 GMT-0600 (MDT) [sid:jjfhto6r] [removeNotify] [userList] current list: fgadri undefined
+Sun May 25 2014 16:53:23 GMT-0600 (MDT) [sid:c25zu0afw29] [addNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:53:23 GMT-0600 (MDT) [sid:c25zu0afw29] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:53:23 GMT-0600 (MDT) [sid:c25zu0afw29] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun May 25 2014 16:53:23 GMT-0600 (MDT) [sid:c25zu0afw29] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:53:23 GMT-0600 (MDT) [sid:c25zu0afw29] [addNotify] [userList] current list: tharris,fgadri
+Sun May 25 2014 16:53:24 GMT-0600 (MDT) [sid:dqvekhdunmi] [removeNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:53:24 GMT-0600 (MDT) [sid:dqvekhdunmi] [removeNotify] [removeValues] keeping: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:53:24 GMT-0600 (MDT) [sid:dqvekhdunmi] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:53:24 GMT-0600 (MDT) [sid:dqvekhdunmi] [removeNotify] [userList] current list: fgadri undefined
+Sun May 25 2014 16:53:30 GMT-0600 (MDT) [sid:y832ko11yvi] [addNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:53:30 GMT-0600 (MDT) [sid:y832ko11yvi] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net
+Sun May 25 2014 16:53:30 GMT-0600 (MDT) [sid:y832ko11yvi] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun May 25 2014 16:53:30 GMT-0600 (MDT) [sid:y832ko11yvi] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:53:30 GMT-0600 (MDT) [sid:y832ko11yvi] [addNotify] [userList] current list: tharris,fgadri
+Sun May 25 2014 16:57:12 GMT-0600 (MDT) [sid:iz5zsxuhaor] [addNotify] New request from 137.65.220.103: tharris - undefined, 5302001919@vtext.com
+Sun May 25 2014 16:57:12 GMT-0600 (MDT) [sid:iz5zsxuhaor] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:57:12 GMT-0600 (MDT) [sid:iz5zsxuhaor] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Sun May 25 2014 16:57:12 GMT-0600 (MDT) [sid:iz5zsxuhaor] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,5302001919@vtext.com
+Sun May 25 2014 16:57:12 GMT-0600 (MDT) [sid:iz5zsxuhaor] [addNotify] [userList] current list: tharris,fgadri
+Sun May 25 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Mon May 26 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Tue May 27 2014 15:56:15 GMT-0600 (MDT) Express server shutting down.
+Tue May 27 2014 15:57:11 GMT-0600 (MDT) Express server is listening securely on port 443
+Tue May 27 2014 15:58:31 GMT-0600 (MDT) [sid:r99zk76i529] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Tue May 27 2014 15:58:31 GMT-0600 (MDT) [sid:r99zk76i529] [addNotify] [getEmail] currentEmail from qmon: null
+Tue May 27 2014 15:58:31 GMT-0600 (MDT) [sid:r99zk76i529] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Tue May 27 2014 15:58:31 GMT-0600 (MDT) [sid:r99zk76i529] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Tue May 27 2014 15:58:31 GMT-0600 (MDT) [sid:r99zk76i529] [addNotify] [userList] current list: abe
+Tue May 27 2014 16:00:38 GMT-0600 (MDT) Express server shutting down.
+Tue May 27 2014 16:01:29 GMT-0600 (MDT) Express server is listening securely on port 443
+Tue May 27 2014 18:35:10 GMT-0600 (MDT) [sid:okrqw7b9] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Tue May 27 2014 18:35:10 GMT-0600 (MDT) [sid:okrqw7b9] [addNotify] [getEmail] currentEmail from qmon: null
+Tue May 27 2014 18:35:10 GMT-0600 (MDT) [sid:okrqw7b9] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Tue May 27 2014 18:35:10 GMT-0600 (MDT) [sid:okrqw7b9] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Tue May 27 2014 18:35:10 GMT-0600 (MDT) [sid:okrqw7b9] [addNotify] [userList] current list: abe
+Tue May 27 2014 18:35:13 GMT-0600 (MDT) [sid:1z94jx20529] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Tue May 27 2014 18:35:13 GMT-0600 (MDT) [sid:1z94jx20529] [addNotify] [getEmail] currentEmail from qmon: null,8014274617@sms.mycricket.com
+Tue May 27 2014 18:35:13 GMT-0600 (MDT) [sid:1z94jx20529] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Tue May 27 2014 18:35:13 GMT-0600 (MDT) [sid:1z94jx20529] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Tue May 27 2014 18:35:13 GMT-0600 (MDT) [sid:1z94jx20529] [addNotify] [userList] current list: abe
+Tue May 27 2014 18:50:58 GMT-0600 (MDT) [sid:oytgmmcmcxr] [addNotify] New request from 151.155.215.89: Tyler Harris - undefined, 5302001919@vtext.com
+Tue May 27 2014 18:50:58 GMT-0600 (MDT) [sid:oytgmmcmcxr] [addNotify] [getEmail] currentEmail from qmon: null,8014274617@sms.mycricket.com
+Tue May 27 2014 18:50:58 GMT-0600 (MDT) [sid:oytgmmcmcxr] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Tue May 27 2014 18:50:58 GMT-0600 (MDT) [sid:oytgmmcmcxr] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com,5302001919@vtext.com
+Tue May 27 2014 18:50:58 GMT-0600 (MDT) [sid:oytgmmcmcxr] [addNotify] [userList] current list: Tyler Harris,abe
+Tue May 27 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Wed May 28 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Thu May 29 2014 15:34:38 GMT-0600 (MDT) Express server shutting down.
+Thu May 29 2014 15:34:40 GMT-0600 (MDT) Express server is listening securely on port 443
+Thu May 29 2014 18:48:25 GMT-0600 (MDT) [sid:80pqtmrhpvi] [addNotify] New request from 137.65.220.181: frank - undefined, 8018645048@tmomail.net
+Thu May 29 2014 18:48:25 GMT-0600 (MDT) [sid:80pqtmrhpvi] [addNotify] [getEmail] currentEmail from qmon: null
+Thu May 29 2014 18:48:25 GMT-0600 (MDT) [sid:80pqtmrhpvi] [addNotify] [newEmail] appending: 8018645048@tmomail.net
+Thu May 29 2014 18:48:25 GMT-0600 (MDT) [sid:80pqtmrhpvi] [updateNotify] [putEmail] result: null,8018645048@tmomail.net
+Thu May 29 2014 18:48:25 GMT-0600 (MDT) [sid:80pqtmrhpvi] [addNotify] [userList] current list: frank
+Thu May 29 2014 19:41:27 GMT-0600 (MDT) [sid:oe4cdgkqpvi] [addNotify] New request from 137.65.149.99: Ian Palmer - ipalmer@novell.com, undefined
+Thu May 29 2014 19:41:28 GMT-0600 (MDT) [sid:oe4cdgkqpvi] [addNotify] [getEmail] currentEmail from qmon: null,8018645048@tmomail.net
+Thu May 29 2014 19:41:28 GMT-0600 (MDT) [sid:oe4cdgkqpvi] [addNotify] [newEmail] appending: ipalmer@novell.com
+Thu May 29 2014 19:41:28 GMT-0600 (MDT) [sid:oe4cdgkqpvi] [updateNotify] [putEmail] result: null,8018645048@tmomail.net,ipalmer@novell.com
+Thu May 29 2014 19:41:28 GMT-0600 (MDT) [sid:oe4cdgkqpvi] [addNotify] [userList] current list: Ian Palmer,frank
+Thu May 29 2014 20:42:49 GMT-0600 (MDT) [sid:mdhbe78ehfr] [removeNotify] New request from 137.65.220.181: frank - undefined, 8018645048@tmomail.net
+Thu May 29 2014 20:42:49 GMT-0600 (MDT) [sid:mdhbe78ehfr] [removeNotify] [removeValues] keeping: null,ipalmer@novell.com
+Thu May 29 2014 20:42:50 GMT-0600 (MDT) [sid:mdhbe78ehfr] [updateNotify] [putEmail] result: null,ipalmer@novell.com
+Thu May 29 2014 20:42:50 GMT-0600 (MDT) [sid:mdhbe78ehfr] [removeNotify] [userList] current list: Ian Palmer undefined
+Thu May 29 2014 20:42:52 GMT-0600 (MDT) [sid:cfls9z77gb9] [removeNotify] New request from 137.65.220.181: frank - undefined, 8018645048@tmomail.net
+Thu May 29 2014 20:42:52 GMT-0600 (MDT) [sid:cfls9z77gb9] [removeNotify] [removeValues] keeping: null,ipalmer@novell.com
+Thu May 29 2014 20:42:52 GMT-0600 (MDT) [sid:cfls9z77gb9] [updateNotify] [putEmail] result: null,ipalmer@novell.com
+Thu May 29 2014 20:42:52 GMT-0600 (MDT) [sid:cfls9z77gb9] [removeNotify] [userList] current list: Ian Palmer undefined
+Thu May 29 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Fri May 30 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Sat May 31 2014 16:12:06 GMT-0600 (MDT) [sid:kd0io1or] [addNotify] New request from 137.65.220.110: fgadri - fgadri@novell.com, 8018645048@tmomail.net
+Sat May 31 2014 16:12:06 GMT-0600 (MDT) [sid:kd0io1or] [addNotify] [getEmail] currentEmail from qmon: null
+Sat May 31 2014 16:12:06 GMT-0600 (MDT) [sid:kd0io1or] [addNotify] [newEmail] appending: fgadri@novell.com,8018645048@tmomail.net
+Sat May 31 2014 16:12:06 GMT-0600 (MDT) [sid:kd0io1or] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net
+Sat May 31 2014 16:12:06 GMT-0600 (MDT) [sid:kd0io1or] [addNotify] [userList] current list: fgadri
+Sat May 31 2014 16:19:31 GMT-0600 (MDT) [sid:skc0qtcsor] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Sat May 31 2014 16:19:31 GMT-0600 (MDT) [sid:skc0qtcsor] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net
+Sat May 31 2014 16:19:31 GMT-0600 (MDT) [sid:skc0qtcsor] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Sat May 31 2014 16:19:31 GMT-0600 (MDT) [sid:skc0qtcsor] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,8014274617@sms.mycricket.com
+Sat May 31 2014 16:19:31 GMT-0600 (MDT) [sid:skc0qtcsor] [addNotify] [userList] current list: abe,fgadri
+Sat May 31 2014 16:21:34 GMT-0600 (MDT) [sid:i4ttgh3q5mi] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Sat May 31 2014 16:21:34 GMT-0600 (MDT) [sid:i4ttgh3q5mi] [addNotify] [getEmail] currentEmail from qmon: null,fgadri@novell.com,8018645048@tmomail.net,8014274617@sms.mycricket.com
+Sat May 31 2014 16:21:34 GMT-0600 (MDT) [sid:i4ttgh3q5mi] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Sat May 31 2014 16:21:34 GMT-0600 (MDT) [sid:i4ttgh3q5mi] [updateNotify] [putEmail] result: null,fgadri@novell.com,8018645048@tmomail.net,8014274617@sms.mycricket.com
+Sat May 31 2014 16:21:34 GMT-0600 (MDT) [sid:i4ttgh3q5mi] [addNotify] [userList] current list: abe,fgadri
+Sat May 31 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Sun Jun 01 2014 03:10:10 GMT-0600 (MDT) Express server is listening securely on port 443
+Sun Jun 01 2014 09:03:43 GMT-0600 (MDT) Express server is listening securely on port 443
+Sun Jun 01 2014 09:04:05 GMT-0600 (MDT) [sid:blkcd7bke29] [addNotify] New request from 137.65.223.18: Shane Nielson - undefined, 8015921467@vtext.com
+Sun Jun 01 2014 09:04:05 GMT-0600 (MDT) [sid:blkcd7bke29] [addNotify] [getEmail] currentEmail from qmon: null
+Sun Jun 01 2014 09:04:05 GMT-0600 (MDT) [sid:blkcd7bke29] [addNotify] [newEmail] appending: 8015921467@vtext.com
+Sun Jun 01 2014 09:04:05 GMT-0600 (MDT) [sid:blkcd7bke29] [updateNotify] [putEmail] result: null,8015921467@vtext.com
+Sun Jun 01 2014 09:04:05 GMT-0600 (MDT) [sid:blkcd7bke29] [addNotify] [userList] current list: Shane Nielson
+Sun Jun 01 2014 09:23:36 GMT-0600 (MDT) [sid:hhi05p14i] [addNotify] New request from 137.65.150.87: Ian Palmer - undefined, 8016875234@txt.att.net
+Sun Jun 01 2014 09:23:36 GMT-0600 (MDT) [sid:hhi05p14i] [addNotify] [getEmail] currentEmail from qmon: null,8015921467@vtext.com
+Sun Jun 01 2014 09:23:36 GMT-0600 (MDT) [sid:hhi05p14i] [addNotify] [newEmail] appending: 8016875234@txt.att.net
+Sun Jun 01 2014 09:23:36 GMT-0600 (MDT) [sid:hhi05p14i] [updateNotify] [putEmail] result: null,8015921467@vtext.com,8016875234@txt.att.net
+Sun Jun 01 2014 09:23:36 GMT-0600 (MDT) [sid:hhi05p14i] [addNotify] [userList] current list: Ian Palmer,Shane Nielson
+Sun Jun 01 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Mon Jun 02 2014 11:31:01 GMT-0600 (MDT) [sid:4u3sw83q5mi] [removeNotify] New request from 151.155.215.89: Tyler Harris - undefined, 5302001919@vtext.com
+Mon Jun 02 2014 11:31:01 GMT-0600 (MDT) [sid:4u3sw83q5mi] [removeNotify] [removeValues] keeping: null
+Mon Jun 02 2014 11:31:01 GMT-0600 (MDT) [sid:4u3sw83q5mi] [updateNotify] [putEmail] result: null
+Mon Jun 02 2014 11:31:01 GMT-0600 (MDT) [sid:4u3sw83q5mi] [removeNotify] [userList] current list:  undefined
+Mon Jun 02 2014 17:10:02 GMT-0600 (MDT) [sid:v3ggcbfyldi] [addNotify] New request from 137.65.220.182: Shane Nielson - undefined, 8015921467@vtext.com
+Mon Jun 02 2014 17:10:02 GMT-0600 (MDT) [sid:v3ggcbfyldi] [addNotify] [getEmail] currentEmail from qmon: null
+Mon Jun 02 2014 17:10:02 GMT-0600 (MDT) [sid:v3ggcbfyldi] [addNotify] [newEmail] appending: 8015921467@vtext.com
+Mon Jun 02 2014 17:10:02 GMT-0600 (MDT) [sid:v3ggcbfyldi] [updateNotify] [putEmail] result: null,8015921467@vtext.com
+Mon Jun 02 2014 17:10:02 GMT-0600 (MDT) [sid:v3ggcbfyldi] [addNotify] [userList] current list: Shane Nielson
+Mon Jun 02 2014 17:47:24 GMT-0600 (MDT) [sid:4986ryvte29] [addNotify] New request from 137.65.220.145: elgiedavis - edavis@novell.com, 9542573305@txt.att.net
+Mon Jun 02 2014 17:47:24 GMT-0600 (MDT) [sid:4986ryvte29] [addNotify] [getEmail] currentEmail from qmon: null,8015921467@vtext.com
+Mon Jun 02 2014 17:47:24 GMT-0600 (MDT) [sid:4986ryvte29] [addNotify] [newEmail] appending: edavis@novell.com,9542573305@txt.att.net
+Mon Jun 02 2014 17:47:24 GMT-0600 (MDT) [sid:4986ryvte29] [updateNotify] [putEmail] result: null,8015921467@vtext.com,edavis@novell.com,9542573305@txt.att.net
+Mon Jun 02 2014 17:47:24 GMT-0600 (MDT) [sid:4986ryvte29] [addNotify] [userList] current list: elgiedavis,Shane Nielson
+Mon Jun 02 2014 19:07:37 GMT-0600 (MDT) [sid:vzsutk2o6r] [addNotify] New request from 151.155.212.116: fgadri - undefined, 8018645048@tmomail.net
+Mon Jun 02 2014 19:07:38 GMT-0600 (MDT) [sid:vzsutk2o6r] [addNotify] [getEmail] currentEmail from qmon: null,8015921467@vtext.com,edavis@novell.com,9542573305@txt.att.net
+Mon Jun 02 2014 19:07:38 GMT-0600 (MDT) [sid:vzsutk2o6r] [addNotify] [newEmail] appending: 8018645048@tmomail.net
+Mon Jun 02 2014 19:07:38 GMT-0600 (MDT) [sid:vzsutk2o6r] [updateNotify] [putEmail] result: null,8015921467@vtext.com,edavis@novell.com,9542573305@txt.att.net,8018645048@tmomail.net
+Mon Jun 02 2014 19:07:38 GMT-0600 (MDT) [sid:vzsutk2o6r] [addNotify] [userList] current list: fgadri,elgiedavis,Shane Nielson
+Mon Jun 02 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Tue Jun 03 2014 17:19:11 GMT-0600 (MDT) [sid:ylaf2p22o6r] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Tue Jun 03 2014 17:19:11 GMT-0600 (MDT) [sid:ylaf2p22o6r] [addNotify] [getEmail] currentEmail from qmon: null
+Tue Jun 03 2014 17:19:11 GMT-0600 (MDT) [sid:ylaf2p22o6r] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Tue Jun 03 2014 17:19:11 GMT-0600 (MDT) [sid:ylaf2p22o6r] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Tue Jun 03 2014 17:19:11 GMT-0600 (MDT) [sid:ylaf2p22o6r] [addNotify] [userList] current list: abe
+Tue Jun 03 2014 17:22:46 GMT-0600 (MDT) [sid:8g5fdw019k9] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Tue Jun 03 2014 17:22:47 GMT-0600 (MDT) [sid:8g5fdw019k9] [addNotify] [getEmail] currentEmail from qmon: null,8014274617@sms.mycricket.com
+Tue Jun 03 2014 17:22:47 GMT-0600 (MDT) [sid:8g5fdw019k9] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Tue Jun 03 2014 17:22:47 GMT-0600 (MDT) [sid:8g5fdw019k9] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Tue Jun 03 2014 17:22:47 GMT-0600 (MDT) [sid:8g5fdw019k9] [addNotify] [userList] current list: abe
+Tue Jun 03 2014 20:42:50 GMT-0600 (MDT) [sid:rc99ilwstt9] [addNotify] New request from 137.65.222.161: Ian - ipalmer@novell.com, undefined
+Tue Jun 03 2014 20:42:50 GMT-0600 (MDT) [sid:rc99ilwstt9] [addNotify] [getEmail] currentEmail from qmon: null,8014274617@sms.mycricket.com
+Tue Jun 03 2014 20:42:50 GMT-0600 (MDT) [sid:rc99ilwstt9] [addNotify] [newEmail] appending: ipalmer@novell.com
+Tue Jun 03 2014 20:42:50 GMT-0600 (MDT) [sid:rc99ilwstt9] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com,ipalmer@novell.com
+Tue Jun 03 2014 20:42:50 GMT-0600 (MDT) [sid:rc99ilwstt9] [addNotify] [userList] current list: Ian,abe
+Tue Jun 03 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Wed Jun 04 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Thu Jun 05 2014 18:08:16 GMT-0600 (MDT) [sid:hvylanhfr] [addNotify] New request from 137.65.222.183: Tyler Harris - undefined, 5302001919@vtext.com
+Thu Jun 05 2014 18:08:16 GMT-0600 (MDT) [sid:hvylanhfr] [addNotify] [getEmail] currentEmail from qmon: null
+Thu Jun 05 2014 18:08:16 GMT-0600 (MDT) [sid:hvylanhfr] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Thu Jun 05 2014 18:08:17 GMT-0600 (MDT) [sid:hvylanhfr] [updateNotify] [putEmail] result: null,5302001919@vtext.com
+Thu Jun 05 2014 18:08:17 GMT-0600 (MDT) [sid:hvylanhfr] [addNotify] [userList] current list: Tyler Harris
+Thu Jun 05 2014 19:20:15 GMT-0600 (MDT) [sid:or6x2wvzpvi] [addNotify] New request from 137.65.222.174: fgari - undefined, 8018645048@msg.telus.com
+Thu Jun 05 2014 19:20:15 GMT-0600 (MDT) [sid:or6x2wvzpvi] [addNotify] [getEmail] currentEmail from qmon: null,5302001919@vtext.com
+Thu Jun 05 2014 19:20:15 GMT-0600 (MDT) [sid:or6x2wvzpvi] [addNotify] [newEmail] appending: 8018645048@msg.telus.com
+Thu Jun 05 2014 19:20:15 GMT-0600 (MDT) [sid:or6x2wvzpvi] [updateNotify] [putEmail] result: null,5302001919@vtext.com,8018645048@msg.telus.com
+Thu Jun 05 2014 19:20:15 GMT-0600 (MDT) [sid:or6x2wvzpvi] [addNotify] [userList] current list: fgari,Tyler Harris
+Thu Jun 05 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Fri Jun 06 2014 16:42:28 GMT-0600 (MDT) [sid:ek8oaq3erk9] [addNotify] New request from 137.65.220.238: Shane Nielson - undefined, 8015921467@vtext.com
+Fri Jun 06 2014 16:42:28 GMT-0600 (MDT) [sid:ek8oaq3erk9] [addNotify] [getEmail] currentEmail from qmon: null
+Fri Jun 06 2014 16:42:28 GMT-0600 (MDT) [sid:ek8oaq3erk9] [addNotify] [newEmail] appending: 8015921467@vtext.com
+Fri Jun 06 2014 16:42:28 GMT-0600 (MDT) [sid:ek8oaq3erk9] [updateNotify] [putEmail] result: null,8015921467@vtext.com
+Fri Jun 06 2014 16:42:28 GMT-0600 (MDT) [sid:ek8oaq3erk9] [addNotify] [userList] current list: Shane Nielson
+Fri Jun 06 2014 17:36:47 GMT-0600 (MDT) [sid:rmm8nsqyqfr] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Fri Jun 06 2014 17:36:47 GMT-0600 (MDT) [sid:rmm8nsqyqfr] [addNotify] [getEmail] currentEmail from qmon: null,8015921467@vtext.com
+Fri Jun 06 2014 17:36:47 GMT-0600 (MDT) [sid:rmm8nsqyqfr] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Fri Jun 06 2014 17:36:47 GMT-0600 (MDT) [sid:rmm8nsqyqfr] [updateNotify] [putEmail] result: null,8015921467@vtext.com,8014274617@sms.mycricket.com
+Fri Jun 06 2014 17:36:47 GMT-0600 (MDT) [sid:rmm8nsqyqfr] [addNotify] [userList] current list: abe,Shane Nielson
+Fri Jun 06 2014 17:36:57 GMT-0600 (MDT) [sid:3rjm4o647vi] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Fri Jun 06 2014 17:36:57 GMT-0600 (MDT) [sid:3rjm4o647vi] [addNotify] [getEmail] currentEmail from qmon: null,8015921467@vtext.com,8014274617@sms.mycricket.com
+Fri Jun 06 2014 17:36:57 GMT-0600 (MDT) [sid:3rjm4o647vi] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Fri Jun 06 2014 17:36:57 GMT-0600 (MDT) [sid:3rjm4o647vi] [updateNotify] [putEmail] result: null,8015921467@vtext.com,8014274617@sms.mycricket.com
+Fri Jun 06 2014 17:36:57 GMT-0600 (MDT) [sid:3rjm4o647vi] [addNotify] [userList] current list: abe,Shane Nielson
+Fri Jun 06 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Sat Jun 07 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Sun Jun 08 2014 03:10:22 GMT-0600 (MDT) Express server is listening securely on port 443
+Sun Jun 08 2014 11:02:31 GMT-0600 (MDT) [sid:8ds54fb6gvi] [addNotify] New request from 137.65.222.221: Kevin - undefined, 8014718208@tmomail.net
+Sun Jun 08 2014 11:02:31 GMT-0600 (MDT) [sid:8ds54fb6gvi] [addNotify] [getEmail] currentEmail from qmon: null
+Sun Jun 08 2014 11:02:31 GMT-0600 (MDT) [sid:8ds54fb6gvi] [addNotify] [newEmail] appending: 8014718208@tmomail.net
+Sun Jun 08 2014 11:02:31 GMT-0600 (MDT) [sid:8ds54fb6gvi] [updateNotify] [putEmail] result: null,8014718208@tmomail.net
+Sun Jun 08 2014 11:02:31 GMT-0600 (MDT) [sid:8ds54fb6gvi] [addNotify] [userList] current list: Kevin
+Sun Jun 08 2014 12:15:50 GMT-0600 (MDT) [sid:f3njh2rzfr] [addNotify] New request from 137.65.221.107: fg - undefined, 8018645048@tmomail.net
+Sun Jun 08 2014 12:15:50 GMT-0600 (MDT) [sid:f3njh2rzfr] [addNotify] [getEmail] currentEmail from qmon: null,8014718208@tmomail.net
+Sun Jun 08 2014 12:15:50 GMT-0600 (MDT) [sid:f3njh2rzfr] [addNotify] [newEmail] appending: 8018645048@tmomail.net
+Sun Jun 08 2014 12:15:51 GMT-0600 (MDT) [sid:f3njh2rzfr] [updateNotify] [putEmail] result: null,8014718208@tmomail.net,8018645048@tmomail.net
+Sun Jun 08 2014 12:15:51 GMT-0600 (MDT) [sid:f3njh2rzfr] [addNotify] [userList] current list: fg,Kevin
+Sun Jun 08 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Mon Jun 09 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Tue Jun 10 2014 16:45:24 GMT-0600 (MDT) [sid:w3dh8rozuxr] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Tue Jun 10 2014 16:45:24 GMT-0600 (MDT) [sid:w3dh8rozuxr] [addNotify] [getEmail] currentEmail from qmon: null
+Tue Jun 10 2014 16:45:24 GMT-0600 (MDT) [sid:w3dh8rozuxr] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Tue Jun 10 2014 16:45:24 GMT-0600 (MDT) [sid:w3dh8rozuxr] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Tue Jun 10 2014 16:45:24 GMT-0600 (MDT) [sid:w3dh8rozuxr] [addNotify] [userList] current list: abe
+Tue Jun 10 2014 18:21:13 GMT-0600 (MDT) [sid:jmqfgbke29] [addNotify] New request from 137.65.221.107: gh - undefined, 8018645048@tmomail.net
+Tue Jun 10 2014 18:21:13 GMT-0600 (MDT) [sid:jmqfgbke29] [addNotify] [getEmail] currentEmail from qmon: null,8014274617@sms.mycricket.com
+Tue Jun 10 2014 18:21:13 GMT-0600 (MDT) [sid:jmqfgbke29] [addNotify] [newEmail] appending: 8018645048@tmomail.net
+Tue Jun 10 2014 18:21:13 GMT-0600 (MDT) [sid:jmqfgbke29] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com,8018645048@tmomail.net
+Tue Jun 10 2014 18:21:13 GMT-0600 (MDT) [sid:jmqfgbke29] [addNotify] [userList] current list: gh,abe
+Tue Jun 10 2014 20:36:35 GMT-0600 (MDT) [sid:ddl6r24vx6r] [addNotify] New request from 137.65.149.99: Ian Palmer - ipalmer@novell.com, undefined
+Tue Jun 10 2014 20:36:35 GMT-0600 (MDT) [sid:ddl6r24vx6r] [addNotify] [getEmail] currentEmail from qmon: null,8014274617@sms.mycricket.com,8018645048@tmomail.net
+Tue Jun 10 2014 20:36:35 GMT-0600 (MDT) [sid:ddl6r24vx6r] [addNotify] [newEmail] appending: ipalmer@novell.com
+Tue Jun 10 2014 20:36:35 GMT-0600 (MDT) [sid:ddl6r24vx6r] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com,8018645048@tmomail.net,ipalmer@novell.com
+Tue Jun 10 2014 20:36:35 GMT-0600 (MDT) [sid:ddl6r24vx6r] [addNotify] [userList] current list: Ian Palmer,gh,abe
+Tue Jun 10 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Wed Jun 11 2014 17:12:45 GMT-0600 (MDT) [sid:m1qfto3whfr] [removeNotify] New request from 137.65.221.107: gh - undefined, 8018645048@tmomail.net
+Wed Jun 11 2014 17:12:45 GMT-0600 (MDT) [sid:m1qfto3whfr] [removeNotify] [removeValues] keeping: null
+Wed Jun 11 2014 17:12:45 GMT-0600 (MDT) [sid:m1qfto3whfr] [updateNotify] [putEmail] result: null
+Wed Jun 11 2014 17:12:45 GMT-0600 (MDT) [sid:m1qfto3whfr] [removeNotify] [userList] current list:  undefined
+Wed Jun 11 2014 18:48:43 GMT-0600 (MDT) [sid:bv5msbmaemi] [addNotify] New request from 137.65.221.107: fg - undefined, 8018645048@tmomail.net
+Wed Jun 11 2014 18:48:43 GMT-0600 (MDT) [sid:bv5msbmaemi] [addNotify] [getEmail] currentEmail from qmon: null
+Wed Jun 11 2014 18:48:43 GMT-0600 (MDT) [sid:bv5msbmaemi] [addNotify] [newEmail] appending: 8018645048@tmomail.net
+Wed Jun 11 2014 18:48:43 GMT-0600 (MDT) [sid:bv5msbmaemi] [updateNotify] [putEmail] result: null,8018645048@tmomail.net
+Wed Jun 11 2014 18:48:43 GMT-0600 (MDT) [sid:bv5msbmaemi] [addNotify] [userList] current list: fg
+Wed Jun 11 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Thu Jun 12 2014 17:43:49 GMT-0600 (MDT) [sid:x4bogczncdi] [addNotify] New request from 137.65.220.158: gf - undefined, 8018645048@tmomail.net
+Thu Jun 12 2014 17:43:49 GMT-0600 (MDT) [sid:x4bogczncdi] [addNotify] [getEmail] currentEmail from qmon: null
+Thu Jun 12 2014 17:43:49 GMT-0600 (MDT) [sid:x4bogczncdi] [addNotify] [newEmail] appending: 8018645048@tmomail.net
+Thu Jun 12 2014 17:43:49 GMT-0600 (MDT) [sid:x4bogczncdi] [updateNotify] [putEmail] result: null,8018645048@tmomail.net
+Thu Jun 12 2014 17:43:49 GMT-0600 (MDT) [sid:x4bogczncdi] [addNotify] [userList] current list: gf
+Thu Jun 12 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Fri Jun 13 2014 17:01:47 GMT-0600 (MDT) [sid:fkogczncdi] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Fri Jun 13 2014 17:01:47 GMT-0600 (MDT) [sid:fkogczncdi] [addNotify] [getEmail] currentEmail from qmon: null
+Fri Jun 13 2014 17:01:47 GMT-0600 (MDT) [sid:fkogczncdi] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Fri Jun 13 2014 17:01:47 GMT-0600 (MDT) [sid:fkogczncdi] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Fri Jun 13 2014 17:01:47 GMT-0600 (MDT) [sid:fkogczncdi] [addNotify] [userList] current list: abe
+Fri Jun 13 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Sat Jun 14 2014 09:01:25 GMT-0600 (MDT) [sid:mernoc7hkt9] [addNotify] New request from 137.65.223.81: gf - undefined, 8018645048@tmomail.net
+Sat Jun 14 2014 09:01:25 GMT-0600 (MDT) [sid:mernoc7hkt9] [addNotify] [getEmail] currentEmail from qmon: null
+Sat Jun 14 2014 09:01:25 GMT-0600 (MDT) [sid:mernoc7hkt9] [addNotify] [newEmail] appending: 8018645048@tmomail.net
+Sat Jun 14 2014 09:01:25 GMT-0600 (MDT) [sid:mernoc7hkt9] [updateNotify] [putEmail] result: null,8018645048@tmomail.net
+Sat Jun 14 2014 09:01:25 GMT-0600 (MDT) [sid:mernoc7hkt9] [addNotify] [userList] current list: gf
+Sat Jun 14 2014 09:01:34 GMT-0600 (MDT) [sid:eh1qtxfxbt9] [removeNotify] New request from 137.65.223.81: gf - undefined, 8018645048@tmomail.net
+Sat Jun 14 2014 09:01:34 GMT-0600 (MDT) [sid:eh1qtxfxbt9] [removeNotify] [removeValues] keeping: null
+Sat Jun 14 2014 09:01:34 GMT-0600 (MDT) [sid:eh1qtxfxbt9] [updateNotify] [putEmail] result: null
+Sat Jun 14 2014 09:01:34 GMT-0600 (MDT) [sid:eh1qtxfxbt9] [removeNotify] [userList] current list:  undefined
+Sat Jun 14 2014 09:01:40 GMT-0600 (MDT) [sid:biyfr4zehfr] [addNotify] New request from 137.65.223.81: gf - undefined, 8018645048@tmomail.net
+Sat Jun 14 2014 09:01:40 GMT-0600 (MDT) [sid:biyfr4zehfr] [addNotify] [getEmail] currentEmail from qmon: null
+Sat Jun 14 2014 09:01:40 GMT-0600 (MDT) [sid:biyfr4zehfr] [addNotify] [newEmail] appending: 8018645048@tmomail.net
+Sat Jun 14 2014 09:01:40 GMT-0600 (MDT) [sid:biyfr4zehfr] [updateNotify] [putEmail] result: null,8018645048@tmomail.net
+Sat Jun 14 2014 09:01:40 GMT-0600 (MDT) [sid:biyfr4zehfr] [addNotify] [userList] current list: gf
+Sat Jun 14 2014 13:14:46 GMT-0600 (MDT) [sid:qt7zoxbt9] [addNotify] New request from 137.65.223.81: gf - undefined, 8018645048@tmomail.net
+Sat Jun 14 2014 13:14:46 GMT-0600 (MDT) [sid:qt7zoxbt9] [addNotify] [getEmail] currentEmail from qmon: null,8018645048@tmomail.net
+Sat Jun 14 2014 13:14:46 GMT-0600 (MDT) [sid:qt7zoxbt9] [addNotify] [newEmail] appending: 8018645048@tmomail.net
+Sat Jun 14 2014 13:14:46 GMT-0600 (MDT) [sid:qt7zoxbt9] [updateNotify] [putEmail] result: null,8018645048@tmomail.net
+Sat Jun 14 2014 13:14:46 GMT-0600 (MDT) [sid:qt7zoxbt9] [addNotify] [userList] current list: gf
+Sat Jun 14 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] exec error: Error: Command failed: 
+Sun Jun 15 2014 10:02:25 GMT-0600 (MDT) Express server is listening securely on port 443
+Sun Jun 15 2014 13:41:18 GMT-0600 (MDT) [sid:6lhhxueg66r] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Sun Jun 15 2014 13:41:18 GMT-0600 (MDT) [sid:6lhhxueg66r] [addNotify] [getEmail] currentEmail from qmon: null
+Sun Jun 15 2014 13:41:18 GMT-0600 (MDT) [sid:6lhhxueg66r] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Sun Jun 15 2014 13:41:18 GMT-0600 (MDT) [sid:6lhhxueg66r] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Sun Jun 15 2014 13:41:18 GMT-0600 (MDT) [sid:6lhhxueg66r] [addNotify] [userList] current list: abe
+Sun Jun 15 2014 13:41:22 GMT-0600 (MDT) [sid:x5s3drysyvi] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Sun Jun 15 2014 13:41:22 GMT-0600 (MDT) [sid:x5s3drysyvi] [addNotify] [getEmail] currentEmail from qmon: null,8014274617@sms.mycricket.com
+Sun Jun 15 2014 13:41:22 GMT-0600 (MDT) [sid:x5s3drysyvi] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Sun Jun 15 2014 13:41:22 GMT-0600 (MDT) [sid:x5s3drysyvi] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Sun Jun 15 2014 13:41:22 GMT-0600 (MDT) [sid:x5s3drysyvi] [addNotify] [userList] current list: abe
+Sun Jun 15 2014 14:08:02 GMT-0600 (MDT) [sid:elh7pffxbt9] [addNotify] New request from 137.65.221.3: fg - undefined, 8018645048@tmomail.net
+Sun Jun 15 2014 14:08:02 GMT-0600 (MDT) [sid:elh7pffxbt9] [addNotify] [getEmail] currentEmail from qmon: null,8014274617@sms.mycricket.com
+Sun Jun 15 2014 14:08:02 GMT-0600 (MDT) [sid:elh7pffxbt9] [addNotify] [newEmail] appending: 8018645048@tmomail.net
+Sun Jun 15 2014 14:08:02 GMT-0600 (MDT) [sid:elh7pffxbt9] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com,8018645048@tmomail.net
+Sun Jun 15 2014 14:08:02 GMT-0600 (MDT) [sid:elh7pffxbt9] [addNotify] [userList] current list: fg,abe
+Sun Jun 15 2014 21:00:01 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Mon Jun 16 2014 19:24:36 GMT-0600 (MDT) [sid:hf3hg0ysyvi] [addNotify] New request from 137.65.220.91: elgiedavis - edavis@novell.com, 9542573305@txt.att.net
+Mon Jun 16 2014 19:24:36 GMT-0600 (MDT) [sid:hf3hg0ysyvi] [addNotify] [getEmail] currentEmail from qmon: null
+Mon Jun 16 2014 19:24:36 GMT-0600 (MDT) [sid:hf3hg0ysyvi] [addNotify] [newEmail] appending: edavis@novell.com,9542573305@txt.att.net
+Mon Jun 16 2014 19:24:36 GMT-0600 (MDT) [sid:hf3hg0ysyvi] [updateNotify] [putEmail] result: null,edavis@novell.com,9542573305@txt.att.net
+Mon Jun 16 2014 19:24:36 GMT-0600 (MDT) [sid:hf3hg0ysyvi] [addNotify] [userList] current list: elgiedavis
+Mon Jun 16 2014 20:51:43 GMT-0600 (MDT) [sid:fiofu4hd7vi] [removeNotify] New request from 137.65.220.91: elgiedavis - edavis@novell.com, 9542573305@txt.att.net
+Mon Jun 16 2014 20:51:43 GMT-0600 (MDT) [sid:fiofu4hd7vi] [removeNotify] [removeValues] keeping: null
+Mon Jun 16 2014 20:51:43 GMT-0600 (MDT) [sid:fiofu4hd7vi] [updateNotify] [putEmail] result: null
+Mon Jun 16 2014 20:51:43 GMT-0600 (MDT) [sid:fiofu4hd7vi] [removeNotify] [userList] current list:  undefined
+Mon Jun 16 2014 21:00:01 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Tue Jun 17 2014 16:56:52 GMT-0600 (MDT) [sid:h16f3lt0529] [removeNotify] New request from 137.65.221.3: fg - undefined, 8018645048@tmomail.net
+Tue Jun 17 2014 16:56:52 GMT-0600 (MDT) [sid:h16f3lt0529] [removeNotify] [removeValues] keeping: null
+Tue Jun 17 2014 16:56:52 GMT-0600 (MDT) [sid:h16f3lt0529] [updateNotify] [putEmail] result: null
+Tue Jun 17 2014 16:56:52 GMT-0600 (MDT) [sid:h16f3lt0529] [removeNotify] [userList] current list:  undefined
+Tue Jun 17 2014 17:24:34 GMT-0600 (MDT) [sid:g3vkf7jh5mi] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Tue Jun 17 2014 17:24:34 GMT-0600 (MDT) [sid:g3vkf7jh5mi] [addNotify] [getEmail] currentEmail from qmon: null
+Tue Jun 17 2014 17:24:34 GMT-0600 (MDT) [sid:g3vkf7jh5mi] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Tue Jun 17 2014 17:24:34 GMT-0600 (MDT) [sid:g3vkf7jh5mi] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Tue Jun 17 2014 17:24:34 GMT-0600 (MDT) [sid:g3vkf7jh5mi] [addNotify] [userList] current list: abe
+Tue Jun 17 2014 21:00:01 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Wed Jun 18 2014 20:33:28 GMT-0600 (MDT) Express server shutting down.
+Wed Jun 18 2014 20:36:48 GMT-0600 (MDT) Express server is listening securely on port 443
+Wed Jun 18 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Thu Jun 19 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Fri Jun 20 2014 17:55:40 GMT-0600 (MDT) [sid:xmdqg5y7gb9] [addNotify] New request from 137.65.223.150: Shane Nielson - undefined, 8015921467@vtext.com
+Fri Jun 20 2014 17:55:40 GMT-0600 (MDT) [sid:xmdqg5y7gb9] [addNotify] [getEmail] currentEmail from qmon: null
+Fri Jun 20 2014 17:55:40 GMT-0600 (MDT) [sid:xmdqg5y7gb9] [addNotify] [newEmail] appending: 8015921467@vtext.com
+Fri Jun 20 2014 17:55:40 GMT-0600 (MDT) [sid:xmdqg5y7gb9] [updateNotify] [putEmail] result: null,8015921467@vtext.com
+Fri Jun 20 2014 17:55:40 GMT-0600 (MDT) [sid:xmdqg5y7gb9] [addNotify] [userList] current list: Shane Nielson
+Fri Jun 20 2014 19:10:54 GMT-0600 (MDT) [sid:f9xfuhaor] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Fri Jun 20 2014 19:10:54 GMT-0600 (MDT) [sid:f9xfuhaor] [addNotify] [getEmail] currentEmail from qmon: null,8015921467@vtext.com
+Fri Jun 20 2014 19:10:54 GMT-0600 (MDT) [sid:f9xfuhaor] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Fri Jun 20 2014 19:10:54 GMT-0600 (MDT) [sid:f9xfuhaor] [updateNotify] [putEmail] result: null,8015921467@vtext.com,8014274617@sms.mycricket.com
+Fri Jun 20 2014 19:10:54 GMT-0600 (MDT) [sid:f9xfuhaor] [addNotify] [userList] current list: abe,Shane Nielson
+Fri Jun 20 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Sat Jun 21 2014 10:16:43 GMT-0600 (MDT) [sid:87gyaqhncdi] [addNotify] New request from 137.65.221.123: elgiedavis - edavis@novell.com, 9542573305@txt.att.net
+Sat Jun 21 2014 10:16:43 GMT-0600 (MDT) [sid:87gyaqhncdi] [addNotify] [getEmail] currentEmail from qmon: null
+Sat Jun 21 2014 10:16:43 GMT-0600 (MDT) [sid:87gyaqhncdi] [addNotify] [newEmail] appending: edavis@novell.com,9542573305@txt.att.net
+Sat Jun 21 2014 10:16:43 GMT-0600 (MDT) [sid:87gyaqhncdi] [updateNotify] [putEmail] result: null,edavis@novell.com,9542573305@txt.att.net
+Sat Jun 21 2014 10:16:43 GMT-0600 (MDT) [sid:87gyaqhncdi] [addNotify] [userList] current list: elgiedavis
+Sat Jun 21 2014 11:20:35 GMT-0600 (MDT) [sid:vzbc3y58kt9] [addNotify] New request from 137.65.221.3: fg - undefined, 8018645048@tmomail.net
+Sat Jun 21 2014 11:20:35 GMT-0600 (MDT) [sid:vzbc3y58kt9] [addNotify] [getEmail] currentEmail from qmon: null,edavis@novell.com,9542573305@txt.att.net
+Sat Jun 21 2014 11:20:35 GMT-0600 (MDT) [sid:vzbc3y58kt9] [addNotify] [newEmail] appending: 8018645048@tmomail.net
+Sat Jun 21 2014 11:20:35 GMT-0600 (MDT) [sid:vzbc3y58kt9] [updateNotify] [putEmail] result: null,edavis@novell.com,9542573305@txt.att.net,8018645048@tmomail.net
+Sat Jun 21 2014 11:20:35 GMT-0600 (MDT) [sid:vzbc3y58kt9] [addNotify] [userList] current list: fg,elgiedavis
+Sat Jun 21 2014 11:20:36 GMT-0600 (MDT) [sid:h8ftppkfbt9] [addNotify] New request from 137.65.221.3: fg - undefined, 8018645048@tmomail.net
+Sat Jun 21 2014 11:20:36 GMT-0600 (MDT) [sid:h8ftppkfbt9] [addNotify] [getEmail] currentEmail from qmon: null,edavis@novell.com,9542573305@txt.att.net,8018645048@tmomail.net
+Sat Jun 21 2014 11:20:36 GMT-0600 (MDT) [sid:h8ftppkfbt9] [addNotify] [newEmail] appending: 8018645048@tmomail.net
+Sat Jun 21 2014 11:20:37 GMT-0600 (MDT) [sid:h8ftppkfbt9] [updateNotify] [putEmail] result: null,edavis@novell.com,9542573305@txt.att.net,8018645048@tmomail.net
+Sat Jun 21 2014 11:20:37 GMT-0600 (MDT) [sid:h8ftppkfbt9] [addNotify] [userList] current list: fg,elgiedavis
+Sat Jun 21 2014 12:49:22 GMT-0600 (MDT) [sid:xuinxy74x6r] [addNotify] New request from 137.65.149.99: Ian Palmer - undefined, undefined
+Sat Jun 21 2014 12:49:22 GMT-0600 (MDT) [sid:xuinxy74x6r] [addNotify] [getEmail] currentEmail from qmon: null,edavis@novell.com,9542573305@txt.att.net,8018645048@tmomail.net
+Sat Jun 21 2014 12:49:22 GMT-0600 (MDT) [sid:xuinxy74x6r] [addNotify] [newEmail] appending: 
+Sat Jun 21 2014 12:49:22 GMT-0600 (MDT) [sid:xuinxy74x6r] [updateNotify] [putEmail] result: null,edavis@novell.com,9542573305@txt.att.net,8018645048@tmomail.net
+Sat Jun 21 2014 12:49:22 GMT-0600 (MDT) [sid:xuinxy74x6r] [addNotify] [userList] current list: Ian Palmer,fg,elgiedavis
+Sat Jun 21 2014 20:00:57 GMT-0600 (MDT) [sid:l0php9fi529] [removeNotify] New request from 137.65.221.123: elgiedavis - edavis@novell.com, 9542573305@txt.att.net
+Sat Jun 21 2014 20:00:57 GMT-0600 (MDT) [sid:l0php9fi529] [removeNotify] [removeValues] keeping: null,8018645048@tmomail.net
+Sat Jun 21 2014 20:00:57 GMT-0600 (MDT) [sid:l0php9fi529] [updateNotify] [putEmail] result: null,8018645048@tmomail.net
+Sat Jun 21 2014 20:00:57 GMT-0600 (MDT) [sid:l0php9fi529] [removeNotify] [userList] current list: Ian Palmer,fg undefined
+Sat Jun 21 2014 20:01:50 GMT-0600 (MDT) [sid:zhdx6xenrk9] [removeNotify] New request from 137.65.221.123: elgiedavis - edavis@novell.com, 9542573305@txt.att.net
+Sat Jun 21 2014 20:01:50 GMT-0600 (MDT) [sid:zhdx6xenrk9] [removeNotify] [removeValues] keeping: null,8018645048@tmomail.net
+Sat Jun 21 2014 20:01:50 GMT-0600 (MDT) [sid:zhdx6xenrk9] [updateNotify] [putEmail] result: null,8018645048@tmomail.net
+Sat Jun 21 2014 20:01:50 GMT-0600 (MDT) [sid:zhdx6xenrk9] [removeNotify] [userList] current list: Ian Palmer,fg undefined
+Sat Jun 21 2014 20:01:51 GMT-0600 (MDT) [sid:42ow0tqpvi] [addNotify] New request from 137.65.221.123: elgiedavis - edavis@novell.com, 9542573305@txt.att.net
+Sat Jun 21 2014 20:01:51 GMT-0600 (MDT) [sid:42ow0tqpvi] [addNotify] [getEmail] currentEmail from qmon: null,8018645048@tmomail.net
+Sat Jun 21 2014 20:01:51 GMT-0600 (MDT) [sid:42ow0tqpvi] [addNotify] [newEmail] appending: edavis@novell.com,9542573305@txt.att.net
+Sat Jun 21 2014 20:01:51 GMT-0600 (MDT) [sid:42ow0tqpvi] [updateNotify] [putEmail] result: null,8018645048@tmomail.net,edavis@novell.com,9542573305@txt.att.net
+Sat Jun 21 2014 20:01:51 GMT-0600 (MDT) [sid:42ow0tqpvi] [addNotify] [userList] current list: elgiedavis,Ian Palmer,fg
+Sat Jun 21 2014 20:30:46 GMT-0600 (MDT) [sid:bjzc1ve7b9] [removeNotify] New request from 137.65.223.132: fg - undefined, 8018645048@tmomail.net
+Sat Jun 21 2014 20:30:46 GMT-0600 (MDT) [sid:bjzc1ve7b9] [removeNotify] [removeValues] keeping: null,edavis@novell.com,9542573305@txt.att.net
+Sat Jun 21 2014 20:30:46 GMT-0600 (MDT) [sid:bjzc1ve7b9] [updateNotify] [putEmail] result: null,edavis@novell.com,9542573305@txt.att.net
+Sat Jun 21 2014 20:30:46 GMT-0600 (MDT) [sid:bjzc1ve7b9] [removeNotify] [userList] current list: elgiedavis,Ian Palmer undefined
+Sat Jun 21 2014 20:30:48 GMT-0600 (MDT) [sid:t7j720jatt9] [removeNotify] New request from 137.65.223.132: fg - undefined, 8018645048@tmomail.net
+Sat Jun 21 2014 20:30:48 GMT-0600 (MDT) [sid:t7j720jatt9] [removeNotify] [removeValues] keeping: null,edavis@novell.com,9542573305@txt.att.net
+Sat Jun 21 2014 20:30:48 GMT-0600 (MDT) [sid:t7j720jatt9] [updateNotify] [putEmail] result: null,edavis@novell.com,9542573305@txt.att.net
+Sat Jun 21 2014 20:30:48 GMT-0600 (MDT) [sid:t7j720jatt9] [removeNotify] [userList] current list: elgiedavis,Ian Palmer undefined
+Sat Jun 21 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Sat Jun 21 2014 21:24:35 GMT-0600 (MDT) [sid:d86nnib2o6r] [removeNotify] New request from 137.65.221.123: elgiedavis - edavis@novell.com, 9542573305@txt.att.net
+Sat Jun 21 2014 21:24:35 GMT-0600 (MDT) [sid:d86nnib2o6r] [removeNotify] [removeValues] keeping: null
+Sat Jun 21 2014 21:24:35 GMT-0600 (MDT) [sid:d86nnib2o6r] [updateNotify] [putEmail] result: null
+Sat Jun 21 2014 21:24:35 GMT-0600 (MDT) [sid:d86nnib2o6r] [removeNotify] [userList] current list:  undefined
+Sun Jun 22 2014 03:11:21 GMT-0600 (MDT) Express server is listening securely on port 443
+Sun Jun 22 2014 08:06:35 GMT-0600 (MDT) [sid:d2dt68byb9] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Sun Jun 22 2014 08:06:35 GMT-0600 (MDT) [sid:d2dt68byb9] [addNotify] [getEmail] currentEmail from qmon: null
+Sun Jun 22 2014 08:06:35 GMT-0600 (MDT) [sid:d2dt68byb9] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Sun Jun 22 2014 08:06:35 GMT-0600 (MDT) [sid:d2dt68byb9] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Sun Jun 22 2014 08:06:35 GMT-0600 (MDT) [sid:d2dt68byb9] [addNotify] [userList] current list: abe
+Sun Jun 22 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Mon Jun 23 2014 08:46:01 GMT-0600 (MDT) Express server shutting down.
+Mon Jun 23 2014 09:00:51 GMT-0600 (MDT) Express server is listening on 127.0.0.1:9002
+Mon Jun 23 2014 10:04:42 GMT-0600 (MDT) Express server is listening on 127.0.0.1:9002
+Mon Jun 23 2014 10:50:53 GMT-0600 (MDT) Express server shutting down.
+Mon Jun 23 2014 10:51:37 GMT-0600 (MDT) Express server is listening on 127.0.0.1:9002
+Mon Jun 23 2014 13:37:52 GMT-0600 (MDT) Express server shutting down.
+Mon Jun 23 2014 13:38:21 GMT-0600 (MDT) Express server is listening on 151.155.215.145:443
+Mon Jun 23 2014 13:38:37 GMT-0600 (MDT) [sid:16y8drt3xr] [addNotify] New request from 151.155.215.89: Tyler Harris - undefined, 5302001919@vtext.com
+Mon Jun 23 2014 13:38:37 GMT-0600 (MDT) [sid:16y8drt3xr] [addNotify] [getEmail] currentEmail from qmon: null
+Mon Jun 23 2014 13:38:37 GMT-0600 (MDT) [sid:16y8drt3xr] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Mon Jun 23 2014 13:38:37 GMT-0600 (MDT) [sid:16y8drt3xr] [updateNotify] [putEmail] result: null,5302001919@vtext.com
+Mon Jun 23 2014 13:38:37 GMT-0600 (MDT) [sid:16y8drt3xr] [addNotify] [userList] current list: Tyler Harris
+Mon Jun 23 2014 13:40:11 GMT-0600 (MDT) [sid:pgpxzvndn29] [addNotify] New request from 151.155.215.89: Tyler Harris - undefined, 5302001919@vtext.com
+Mon Jun 23 2014 13:40:11 GMT-0600 (MDT) [sid:pgpxzvndn29] [addNotify] [getEmail] currentEmail from qmon: null
+Mon Jun 23 2014 13:40:11 GMT-0600 (MDT) [sid:pgpxzvndn29] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Mon Jun 23 2014 13:40:11 GMT-0600 (MDT) [sid:pgpxzvndn29] [updateNotify] [putEmail] result: null,5302001919@vtext.com
+Mon Jun 23 2014 13:40:11 GMT-0600 (MDT) [sid:pgpxzvndn29] [addNotify] [userList] current list: Tyler Harris
+Mon Jun 23 2014 13:51:58 GMT-0600 (MDT) [sid:bremwle4s4i] [addNotify] New request from 151.155.215.89: Tyler Harris - undefined, 5302001919@vtext.com
+Mon Jun 23 2014 13:51:58 GMT-0600 (MDT) [sid:bremwle4s4i] [addNotify] [getEmail] currentEmail from qmon: null,5302001919@vtext.com
+Mon Jun 23 2014 13:51:58 GMT-0600 (MDT) [sid:bremwle4s4i] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Mon Jun 23 2014 13:51:58 GMT-0600 (MDT) [sid:bremwle4s4i] [updateNotify] [putEmail] result: null,5302001919@vtext.com
+Mon Jun 23 2014 13:51:58 GMT-0600 (MDT) [sid:bremwle4s4i] [addNotify] [userList] current list: Tyler Harris
+Mon Jun 23 2014 13:55:08 GMT-0600 (MDT) [sid:z2mb7ggy14i] [removeNotify] New request from 151.155.215.89: Tyler Harris - undefined, 5302001919@vtext.com
+Mon Jun 23 2014 13:55:08 GMT-0600 (MDT) [sid:z2mb7ggy14i] [removeNotify] [removeValues] keeping: null
+Mon Jun 23 2014 13:55:08 GMT-0600 (MDT) [sid:z2mb7ggy14i] [updateNotify] [putEmail] result: null
+Mon Jun 23 2014 13:55:08 GMT-0600 (MDT) [sid:z2mb7ggy14i] [removeNotify] [userList] current list:  undefined
+Mon Jun 23 2014 14:24:29 GMT-0600 (MDT) Express server shutting down.
+Mon Jun 23 2014 14:25:15 GMT-0600 (MDT) Express server is listening on 151.155.215.145:443
+Mon Jun 23 2014 17:48:38 GMT-0600 (MDT) [sid:6md40urqkt9] [addNotify] New request from 137.65.220.92: elgiedavis - edavis@novell.com, 9542573305@txt.att.net
+Mon Jun 23 2014 17:48:38 GMT-0600 (MDT) [sid:6md40urqkt9] [addNotify] [getEmail] currentEmail from qmon: null
+Mon Jun 23 2014 17:48:38 GMT-0600 (MDT) [sid:6md40urqkt9] [addNotify] [newEmail] appending: edavis@novell.com,9542573305@txt.att.net
+Mon Jun 23 2014 17:48:38 GMT-0600 (MDT) [sid:6md40urqkt9] [updateNotify] [putEmail] result: null,edavis@novell.com,9542573305@txt.att.net
+Mon Jun 23 2014 17:48:38 GMT-0600 (MDT) [sid:6md40urqkt9] [addNotify] [userList] current list: elgiedavis
+Mon Jun 23 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Mon Jun 23 2014 21:05:02 GMT-0600 (MDT) [sid:zt12m0ftj4i] [removeNotify] New request from 137.65.220.92: elgiedavis - edavis@novell.com, 9542573305@txt.att.net
+Mon Jun 23 2014 21:05:02 GMT-0600 (MDT) [sid:zt12m0ftj4i] [removeNotify] [removeValues] keeping: null
+Mon Jun 23 2014 21:05:02 GMT-0600 (MDT) [sid:zt12m0ftj4i] [updateNotify] [putEmail] result: null
+Mon Jun 23 2014 21:05:02 GMT-0600 (MDT) [sid:zt12m0ftj4i] [removeNotify] [userList] current list:  undefined
+Tue Jun 24 2014 09:51:11 GMT-0600 (MDT) Express server shutting down.
+Tue Jun 24 2014 09:52:45 GMT-0600 (MDT) Express server is listening on 151.155.215.145:8001
+Tue Jun 24 2014 09:54:56 GMT-0600 (MDT) Express server shutting down.
+Tue Jun 24 2014 10:06:00 GMT-0600 (MDT) Express server shutting down.
+Tue Jun 24 2014 10:06:03 GMT-0600 (MDT) Express server is listening on 151.155.215.145:443
+Tue Jun 24 2014 10:14:07 GMT-0600 (MDT) Express server shutting down.
+Tue Jun 24 2014 14:44:38 GMT-0600 (MDT) Express server shutting down.
+Tue Jun 24 2014 14:48:08 GMT-0600 (MDT) Express server shutting down.
+Tue Jun 24 2014 14:50:51 GMT-0600 (MDT) Express server is listening on 0.0.0.0:443
+Tue Jun 24 2014 17:28:28 GMT-0600 (MDT) [sid:otdn2s7zaor] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Tue Jun 24 2014 17:28:28 GMT-0600 (MDT) [sid:otdn2s7zaor] [addNotify] [getEmail] currentEmail from qmon: null
+Tue Jun 24 2014 17:28:28 GMT-0600 (MDT) [sid:otdn2s7zaor] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Tue Jun 24 2014 17:28:29 GMT-0600 (MDT) [sid:otdn2s7zaor] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Tue Jun 24 2014 17:28:29 GMT-0600 (MDT) [sid:otdn2s7zaor] [addNotify] [userList] current list: abe
+Tue Jun 24 2014 19:40:00 GMT-0600 (MDT) [sid:5btpzw1m7vi] [addNotify] New request from 151.155.215.89: Tyler Harris - undefined, 5302001919@vtext.com
+Tue Jun 24 2014 19:40:00 GMT-0600 (MDT) [sid:5btpzw1m7vi] [addNotify] [getEmail] currentEmail from qmon: null,8014274617@sms.mycricket.com
+Tue Jun 24 2014 19:40:00 GMT-0600 (MDT) [sid:5btpzw1m7vi] [addNotify] [newEmail] appending: 5302001919@vtext.com
+Tue Jun 24 2014 19:40:00 GMT-0600 (MDT) [sid:5btpzw1m7vi] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com,5302001919@vtext.com
+Tue Jun 24 2014 19:40:00 GMT-0600 (MDT) [sid:5btpzw1m7vi] [addNotify] [userList] current list: Tyler Harris,abe
+Tue Jun 24 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Wed Jun 25 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Thu Jun 26 2014 17:51:33 GMT-0600 (MDT) [sid:gsnffo2mx6r] [addNotify] New request from 137.65.149.99: Ian Palmer - ipalmer@novell.com, undefined
+Thu Jun 26 2014 17:51:33 GMT-0600 (MDT) [sid:gsnffo2mx6r] [addNotify] [getEmail] currentEmail from qmon: null
+Thu Jun 26 2014 17:51:33 GMT-0600 (MDT) [sid:gsnffo2mx6r] [addNotify] [newEmail] appending: ipalmer@novell.com
+Thu Jun 26 2014 17:51:33 GMT-0600 (MDT) [sid:gsnffo2mx6r] [updateNotify] [putEmail] result: null,ipalmer@novell.com
+Thu Jun 26 2014 17:51:33 GMT-0600 (MDT) [sid:gsnffo2mx6r] [addNotify] [userList] current list: Ian Palmer
+Thu Jun 26 2014 21:00:00 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
+Fri Jun 27 2014 02:35:37 GMT-0600 (MDT) Express server is listening on 0.0.0.0:443
+Fri Jun 27 2014 18:00:56 GMT-0600 (MDT) [sid:tnlcxj62yb9] [addNotify] New request from 137.65.156.61: abe - undefined, 8014274617@sms.mycricket.com
+Fri Jun 27 2014 18:00:56 GMT-0600 (MDT) [sid:tnlcxj62yb9] [addNotify] [getEmail] currentEmail from qmon: null
+Fri Jun 27 2014 18:00:56 GMT-0600 (MDT) [sid:tnlcxj62yb9] [addNotify] [newEmail] appending: 8014274617@sms.mycricket.com
+Fri Jun 27 2014 18:00:56 GMT-0600 (MDT) [sid:tnlcxj62yb9] [updateNotify] [putEmail] result: null,8014274617@sms.mycricket.com
+Fri Jun 27 2014 18:00:56 GMT-0600 (MDT) [sid:tnlcxj62yb9] [addNotify] [userList] current list: abe
+Sat Jun 28 2014 04:31:30 GMT-0600 (MDT) [scheduler] [reset] Cleared userList.
