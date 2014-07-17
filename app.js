@@ -1,9 +1,11 @@
 
 var express = require('express'),
 	fs = require('fs'),
-	logme = require('logme');
+	logme = require('logme'),
+	morgan  = require('morgan');
 
 var app = express();
+app.use(morgan({ format: 'dev' }));
 
 // If the URL is /main and the relative URL is css/style.css, it will resolve to /css/style.css, 
 // but if the URL is /main/, the relative URL resolves to /main/css/style.css.
