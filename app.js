@@ -14,6 +14,18 @@ app.all(/^\/qNotify$/, function(req, res) { res.redirect('/qNotify/'); });
 app.all(/^\/db$/, function(req, res) { res.redirect('/db/'); });
 app.all(/^\/qNinja$/, function(req, res) { res.redirect('/qNinja/'); });
 
+app.get('/', function(req, res) {
+	
+  // res.redirect('/qNinja/');
+  var hostname = req.headers.host.split(":")[0];
+
+  if(hostname == "qNinja.lab.novell.com")
+    res.redirect('/qNinja/');
+  else if(hostname == "sub2.domain.com")
+    res.send("this is sub2 response!");
+
+});
+
 // Mount lib modules
 app.use('/qNotify', require('./lib/qNotify'));
 app.use('/db', require('./lib/db'));
