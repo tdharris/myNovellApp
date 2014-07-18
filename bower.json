@@ -1,0 +1,22 @@
+{
+  "name": "myNovellApp",
+  "version": "0.0.0",
+  "componentsDirectory": "public/dist/",
+  "homepage": "https://github.com/tdharris/myNovellApp",
+  "authors": [
+    "tdharris <tylerdavidharris@gmail.com>"
+  ],
+  "main": "app.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0"
+  }
+}

@@ -18,13 +18,16 @@ app.get('/', function(req, res) {
 	
   // res.redirect('/qNinja/');
   var hostname = req.headers.host.split(":")[0];
-
   if(hostname == "qNinja.lab.novell.com")
     res.redirect('/qNinja/');
-  else if(hostname == "sub2.domain.com")
-    res.send("this is sub2 response!");
+  else
+    res.sendfile("public/index.html", {root: __dirname });
 
 });
+
+
+// Serve up homepage
+app.use(express.static(__dirname+'/public'));
 
 // Mount lib modules
 app.use('/qNotify', require('./lib/qNotify'));
