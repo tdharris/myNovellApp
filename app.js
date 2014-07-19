@@ -11,14 +11,15 @@ app.use(morgan({ format: 'dev' }));
 // but if the URL is /main/, the relative URL resolves to /main/css/style.css.
 // Strategy for dealing with this is to redirect to add the trailing slash.
 app.all(/^\/qNotify$/, function(req, res) { res.redirect('/qNotify/'); });
-app.all(/^\/db$/, function(req, res) { res.redirect('/db/'); });
+app.all(/^\/db$/, function(req, res) { res.redirect('http://tharris3.lab.novell.com'); });
 app.all(/^\/qNinja$/, function(req, res) { res.redirect('/qNinja/'); });
 
 app.get('/', function(req, res) {
 	
   // res.redirect('/qNinja/');
   var hostname = req.headers.host.split(":")[0];
-  if(hostname == "qNinja.lab.novell.com")
+
+  if(hostname == "qninja.lab.novell.com")
     res.redirect('/qNinja/');
   else
     res.sendfile("public/index.html", {root: __dirname });
@@ -47,7 +48,7 @@ var opts = {
 
 serverhttps = require('https').createServer(opts, app);
 
-serverhttps.listen(3000, function() {
+serverhttps.listen(443, function() {
 	logme.info(' myNovellApp is listening on ' + serverhttps.address().address + ':' + serverhttps.address().port);
 });
 
