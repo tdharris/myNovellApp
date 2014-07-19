@@ -12,13 +12,13 @@ body {
     font-family: 'Batman';
     font-style: normal;
   	font-weight: 700;
-    src: local('Batman Forever'), local('Batman'), url('fonts/batmfa__.ttf') format('truetype');
+    src: local('Batman Forever'), local('Batman'), url('/dist/fonts/batmfa__.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Allan';
   font-style: normal;
   font-weight: 700;
-  src: local('Allan Bold'), local('Allan-Bold'), url('fonts/Allan.ttf') format('truetype');
+  src: local('Allan Bold'), local('Allan-Bold'), url('/dist/fonts/Allan.ttf') format('truetype');
 }
 
 .jumbotron {
@@ -27,7 +27,7 @@ body {
 	/*background: #4682B4;*/
 	/*padding: 20px;*/
 	padding-bottom: 15px;
-	background: url('img/darksmallcheck.png');
+	background: url('/dist/img/darksmallcheck.png');
     border-top: 1px solid #ddd;
 }
 

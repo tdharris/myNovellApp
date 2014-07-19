@@ -11,7 +11,9 @@
     "logme": "~0.4.0",
     "morgan": "^1.1.1",
     "request": "~2.36.0",
-    "bower": "~1.3.8"
+    "bower": "~1.3.8",
+    "node-minify": "~0.10.5",
+    "async": "~0.9.0"
   },
   "devDependencies": {},
   "scripts": {
