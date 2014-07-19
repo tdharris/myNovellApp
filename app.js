@@ -1,4 +1,3 @@
-
 var startServer = require('./server'),
     minify = require('./js/minify');
 
