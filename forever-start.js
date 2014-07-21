@@ -1,6 +1,9 @@
 var forever = require('forever-monitor'),
     logme = require('logme');
 
+d = new Date();
+logDate = d.getFullYear()+'-'+d.getMonth()+'-'+d.getDate()+'_'+d.getHours()+d.getMinutes()+d.getSeconds();
+
 var child = new(forever.Monitor)('app.js', {
     max: 3,
     silent: false,
@@ -13,9 +16,9 @@ var child = new(forever.Monitor)('app.js', {
     //
     // Log files and associated logging options for this instance
     // 
-    'logFile': 'logs/forever.log', // Path to log output from forever process (when daemonized)
-    'outFile': 'logs/app.log', // Path to log output from child stdout
-    'errFile': 'logs/err.log' // Path to log output from child stderr
+    'logFile': 'logs/'+logDate+'_forever.log', // Path to log output from forever process (when daemonized)
+    'outFile': 'logs/'+logDate+'_app.log', // Path to log output from child stdout
+    'errFile': 'logs/'+logDate+'_err.log' // Path to log output from child stderr
 
 });
 
