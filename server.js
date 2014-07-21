@@ -37,7 +37,7 @@ module.exports = function() {
             key: fs.readFileSync('./ssl/privatekey.pem'),
             cert: fs.readFileSync('./ssl/certificate.pem')
         }, app)
-        .listen(3000, function() {
+        .listen(443, function() {
             logme.info('myNovellApp is listening on ' + this.address().address + ':' + this.address().port);
         });
 
