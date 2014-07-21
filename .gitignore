@@ -14,3 +14,5 @@ results
 node_modules
 
 npm-debug.log
+base-min-yui.css
+base-min-yui.js
