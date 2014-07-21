@@ -1,0 +1,14 @@
+{
+  "name": "qDash",
+  "version": "0.0.0",
+  "description": "Engineer Dashboard of Servers/Services",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tdharris",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "sockjs": "~0.3.9"
+  }
+}
