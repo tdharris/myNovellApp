@@ -21,6 +21,19 @@ module.exports = function() {
     app.all(/^\/qNinja$/, function(req, res) {
         res.redirect('/qNinja/');
     });
+
+    app.get('/', function(req, res) {
+
+        var hostname = req.headers.host.split(":")[0];
+
+        if (hostname == "qninja.lab.novell.com")
+            res.redirect('/qNinja/');
+        else
+            res.sendfile("public/index.html", {
+                root: __dirname
+            });
+
+    });
     
     app.use(morgan({
             format: 'dev',
@@ -47,19 +60,6 @@ module.exports = function() {
     //    res.redirect('https://tharris7.lab.novell.com'+req.url)
     //});
     // http.listen(80);
-
-    app.get('/', function(req, res) {
-
-        var hostname = req.headers.host.split(":")[0];
-
-        if (hostname == "qninja.lab.novell.com")
-            res.redirect('/qNinja/');
-        else
-            res.sendfile("public/index.html", {
-                root: __dirname
-            });
-
-    });
 
     process.on('SIGINT', function() {
         logme.info("myNovellApp shutting down.");
