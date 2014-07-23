@@ -2,7 +2,7 @@
 
 # Change APP_NAME and APP_DIR.
 APP_NAME="myNovellApp"
-APP_DIR="/home/tharris/dev/novell/myNovellApp"
+APP_DIR="/srv/www/myNovellApp"
 
 # Change nothing below this line.
 # ------------------------------
@@ -35,7 +35,7 @@ case "$1" in
  ;;
 
   *)
-    echo "Usage: $0 {start|stop|restart}" >&2
+    echo "Usage: $0 {start|stop|restart|status}" >&2
     exit 1
     ;;
 esac
