@@ -1,0 +1,43 @@
+#!/bin/bash
+
+# Change APP_NAME and APP_DIR.
+APP_NAME="myNovellApp"
+APP_DIR="/home/tharris/dev/novell/myNovellApp"
+
+# Change nothing below this line.
+# ------------------------------
+export PATH="/usr/local/bin:$PATH"
+export NODE_PATH="/usr/local/lib/node_modules:$NODE_PATH"
+
+case "$1" in
+  start)
+    pushd "$APP_DIR" > /dev/null
+    sudo npm start
+    popd > /dev/null
+  ;;
+
+  stop) 
+    pushd "$APP_DIR" > /dev/null
+    sudo npm stop
+    popd > /dev/null
+  ;;
+
+  restart)
+      pushd "$APP_DIR" > /dev/null
+      sudo npm restart
+      popd > /dev/null
+    ;;
+
+  status)
+    pushd "$APP_DIR" > /dev/null
+    sudo node startup.js status
+    popd > /dev/null
+ ;;
+
+  *)
+    echo "Usage: $0 {start|stop|restart}" >&2
+    exit 1
+    ;;
+esac
+
+exit 0
