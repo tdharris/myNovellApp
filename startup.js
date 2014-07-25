@@ -6,10 +6,11 @@ var logRotate = require('./js/logRotate'),
 logRotate();
 
 startStopDaemon({
-	'max': 0,
+    'max': 3,
     'append': true,
-    'outFile': config.logDirectory + '/app.log',
-    'errFile': config.logDirectory + '/err.log'
+    'logFile': config.logDirectory + '/app.log'
+    // 'outFile': config.logDirectory + '/app.log',
+    // 'errFile': config.logDirectory + '/app.log'
 }, function() {
     startApp();
 });
