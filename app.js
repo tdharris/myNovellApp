@@ -4,7 +4,8 @@ module.exports = function() {
         fs = require('fs'),
         logme = require('logme'),
         morgan = require('morgan'),
-        https = require('https');
+        https = require('https'),
+        compress = require('compression')();
 
     var app = express();
 
@@ -40,6 +41,7 @@ module.exports = function() {
                 return res.statusCode === 304;
             }
         }))
+        .use(compress)
         .use(express.static(__dirname + '/public'))
         .use('/qNotify', require('./lib/qNotify'))
         .use('/db', require('./lib/db'))
