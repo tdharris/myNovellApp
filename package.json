@@ -16,7 +16,9 @@
     "forever-monitor": "~1.2.3",
     "start-stop-daemon": "~0.1.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "grunt-contrib-uglify": "~0.5.1"
+  },
   "scripts": {
     "start": "node startup.js start",
     "stop": "node startup.js stop",
