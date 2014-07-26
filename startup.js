@@ -18,17 +18,17 @@ startStopDaemon({
 })
 
 	.on('restart', function() {
-		logme.info('Restarting at ' + new Date()); 
+		logme.warning('Restarting at ' + new Date()); 
 	})
 
 	.on('start', function() {
-		logme.info('Starting at ' + new Date()); 
+		logme.warning('Starting at ' + new Date()); 
 	})
 
 	.on('stop', function() {
-		logme.info('Stopping at ' + new Date()); 
+		logme.warning('Stopping at ' + new Date()); 
 	})
 
 	.on('exit', function() {
-		logme.info('Exiting at ' + new Date()); 
+		logme.warning('Exiting at ' + new Date()); 
 	});
