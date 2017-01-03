@@ -6,6 +6,10 @@ module.exports = function(grunt) {
       options: {
         separator: ';'
       },
+      css: {
+        src: ['public/components/normalize-css/normalize.css', 'public/components/bootstrap/dist/css/bootstrap.min.css', 'public/components/app.css'],
+        dest: 'public/dist/<%= pkg.name %>.css'
+      },
       dist: {
         src: ['src/**/*.js'],
         dest: 'dist/<%= pkg.name %>.js'
@@ -21,8 +25,12 @@ module.exports = function(grunt) {
         }
       }
     },
-    qunit: {
-      files: ['test/**/*.html']
+    cssmin: {
+      combine: {
+        files: {
+          'public/dist/<%= pkg.name %>.min.css': ['<%= concat.css.dest %>']
+        }
+      }
     },
     jshint: {
       files: ['Gruntfile.js', 'src/**/*.js', 'test/**/*.js'],
@@ -38,7 +46,7 @@ module.exports = function(grunt) {
     },
     watch: {
       files: ['<%= jshint.files %>'],
-      tasks: ['jshint', 'qunit']
+      tasks: ['jshint', 'cssmin']
     }
   });
 
